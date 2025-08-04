@@ -1,0 +1,2675 @@
+Request id,Pickup point,Driver id,Status,Trip duration (minutes),Demand-Supply Gap,Day of week,Hour of day,Time slot
+619,Airport,1.0,Trip Completed,69.0,0,Monday,11,Morning
+867,Airport,1.0,Trip Completed,50.0,0,Monday,17,Evening
+1807,City,1.0,Trip Completed,41.0,0,Tuesday,9,Morning
+2532,Airport,1.0,Trip Completed,55.0,0,Tuesday,21,Night
+267,City,2.0,Trip Completed,39.0,0,Monday,6,Early Morning
+1467,Airport,2.0,Trip Completed,54.0,0,Tuesday,5,Early Morning
+1983,City,2.0,Trip Completed,27.0,0,Tuesday,12,Afternoon
+535,Airport,3.0,Trip Completed,31.0,0,Monday,10,Morning
+960,Airport,3.0,Trip Completed,38.0,0,Monday,18,Evening
+1934,Airport,3.0,Trip Completed,66.0,0,Tuesday,11,Morning
+2083,Airport,3.0,Trip Completed,54.0,0,Tuesday,15,Afternoon
+2211,Airport,3.0,Trip Completed,28.0,0,Tuesday,18,Evening
+669,City,4.0,Trip Completed,41.0,0,Monday,13,Afternoon
+1567,Airport,4.0,Trip Completed,49.0,0,Tuesday,6,Early Morning
+1826,City,4.0,Trip Completed,60.0,0,Tuesday,9,Morning
+2102,City,4.0,Trip Completed,52.0,0,Tuesday,16,Evening
+312,City,5.0,Trip Completed,64.0,0,Monday,7,Early Morning
+577,Airport,5.0,Trip Completed,58.0,0,Monday,11,Morning
+1179,City,5.0,Trip Completed,47.0,0,Monday,20,Night
+1756,Airport,5.0,Trip Completed,43.0,0,Tuesday,8,Morning
+2052,City,5.0,Trip Completed,62.0,0,Tuesday,14,Afternoon
+2559,City,5.0,Trip Completed,57.0,0,Tuesday,21,Night
+1517,Airport,6.0,Trip Completed,43.0,0,Tuesday,5,Early Morning
+1999,Airport,6.0,Trip Completed,49.0,0,Tuesday,13,Afternoon
+1039,City,7.0,Trip Completed,70.0,0,Monday,19,Evening
+1273,Airport,7.0,Trip Completed,65.0,0,Monday,22,Night
+2480,City,7.0,Trip Completed,49.0,0,Tuesday,20,Night
+380,Airport,8.0,Trip Completed,60.0,0,Monday,8,Morning
+1050,Airport,8.0,Trip Completed,51.0,0,Monday,19,Evening
+1769,City,8.0,Trip Completed,27.0,0,Tuesday,8,Morning
+2520,City,8.0,Trip Completed,75.0,0,Tuesday,21,Night
+449,Airport,9.0,Trip Completed,44.0,0,Monday,9,Morning
+846,Airport,9.0,Trip Completed,66.0,0,Monday,17,Evening
+1346,Airport,9.0,Trip Completed,44.0,0,Monday,23,Night
+1474,Airport,9.0,Trip Completed,43.0,0,Tuesday,5,Early Morning
+2240,City,9.0,Trip Completed,34.0,0,Tuesday,18,Evening
+1809,Airport,10.0,Trip Completed,48.0,0,Tuesday,9,Morning
+2064,Airport,10.0,Trip Completed,66.0,0,Tuesday,15,Afternoon
+2030,City,11.0,Trip Completed,51.0,0,Tuesday,14,Afternoon
+45,Airport,12.0,Trip Completed,52.0,0,Monday,3,Late Night
+264,City,12.0,Trip Completed,49.0,0,Monday,6,Early Morning
+1183,City,12.0,Trip Completed,33.0,0,Monday,21,Night
+1536,Airport,12.0,Trip Completed,60.0,0,Tuesday,5,Early Morning
+2437,City,12.0,Trip Completed,68.0,0,Tuesday,20,Night
+2641,Airport,12.0,Trip Completed,37.0,0,Tuesday,22,Night
+155,City,13.0,Trip Completed,56.0,0,Monday,5,Early Morning
+310,Airport,13.0,Trip Completed,64.0,0,Monday,7,Early Morning
+607,City,13.0,Trip Completed,51.0,0,Monday,11,Morning
+1012,City,13.0,Trip Completed,42.0,0,Monday,19,Evening
+1696,Airport,13.0,Trip Completed,41.0,0,Tuesday,8,Morning
+139,Airport,14.0,Trip Completed,48.0,0,Monday,5,Early Morning
+215,City,14.0,Trip Completed,52.0,0,Monday,6,Early Morning
+1816,City,14.0,Trip Completed,43.0,0,Tuesday,9,Morning
+2505,Airport,14.0,Trip Completed,71.0,0,Tuesday,21,Night
+1027,Airport,15.0,Trip Completed,66.0,0,Monday,19,Evening
+2675,Airport,15.0,Trip Completed,0.0,0,Tuesday,23,Night
+591,City,16.0,Trip Completed,66.0,0,Monday,11,Morning
+709,City,16.0,Trip Completed,47.0,0,Monday,14,Afternoon
+1167,Airport,16.0,Trip Completed,62.0,0,Monday,20,Night
+2661,Airport,16.0,Trip Completed,0.0,0,Tuesday,23,Night
+634,City,17.0,Trip Completed,41.0,0,Monday,12,Afternoon
+939,Airport,17.0,Trip Completed,61.0,0,Monday,18,Evening
+2628,Airport,17.0,Trip Completed,75.0,0,Tuesday,22,Night
+499,City,18.0,Trip Completed,37.0,0,Monday,9,Morning
+1147,Airport,18.0,Trip Completed,36.0,0,Monday,20,Night
+1410,Airport,18.0,Trip Completed,73.0,0,Tuesday,3,Late Night
+1804,Airport,18.0,Trip Completed,45.0,0,Tuesday,9,Morning
+1949,Airport,18.0,Trip Completed,41.0,0,Tuesday,11,Morning
+494,City,19.0,Trip Completed,26.0,0,Monday,9,Morning
+1485,City,19.0,Trip Completed,74.0,0,Tuesday,5,Early Morning
+2042,City,19.0,Trip Completed,39.0,0,Tuesday,14,Afternoon
+2561,Airport,19.0,Trip Completed,75.0,0,Tuesday,21,Night
+468,City,20.0,Trip Completed,45.0,0,Monday,9,Morning
+693,Airport,20.0,Trip Completed,70.0,0,Monday,13,Afternoon
+1178,City,20.0,Trip Completed,61.0,0,Monday,21,Night
+2103,City,20.0,Trip Completed,70.0,0,Tuesday,16,Evening
+2292,Airport,20.0,Trip Completed,37.0,0,Tuesday,18,Evening
+1895,City,21.0,Trip Completed,32.0,0,Tuesday,10,Morning
+1981,Airport,21.0,Trip Completed,33.0,0,Tuesday,12,Afternoon
+110,City,22.0,Trip Completed,61.0,0,Monday,5,Early Morning
+362,City,22.0,Trip Completed,77.0,0,Monday,8,Morning
+666,Airport,22.0,Trip Completed,43.0,0,Monday,13,Afternoon
+926,City,22.0,Trip Completed,66.0,0,Monday,18,Evening
+1180,Airport,22.0,Trip Completed,73.0,0,Monday,21,Night
+1900,City,22.0,Trip Completed,70.0,0,Tuesday,10,Morning
+2506,City,22.0,Trip Completed,37.0,0,Tuesday,21,Night
+523,Airport,23.0,Trip Completed,49.0,0,Monday,9,Morning
+747,City,23.0,Trip Completed,50.0,0,Monday,15,Afternoon
+1371,Airport,23.0,Trip Completed,71.0,0,Tuesday,0,Late Night
+1553,City,23.0,Trip Completed,60.0,0,Tuesday,6,Early Morning
+1692,Airport,23.0,Trip Completed,69.0,0,Tuesday,7,Early Morning
+2114,City,23.0,Trip Completed,45.0,0,Tuesday,16,Evening
+357,Airport,24.0,Trip Completed,68.0,0,Monday,8,Morning
+1068,City,24.0,Trip Completed,56.0,0,Monday,19,Evening
+773,City,25.0,Trip Completed,58.0,0,Monday,16,Evening
+1123,City,25.0,Trip Completed,58.0,0,Monday,20,Night
+2667,Airport,25.0,Trip Completed,0.0,0,Tuesday,23,Night
+322,City,26.0,Trip Completed,39.0,0,Monday,7,Early Morning
+793,City,26.0,Trip Completed,62.0,0,Monday,17,Evening
+898,Airport,26.0,Trip Completed,55.0,0,Monday,18,Evening
+1258,City,26.0,Trip Completed,69.0,0,Monday,21,Night
+204,City,27.0,Trip Completed,40.0,0,Monday,6,Early Morning
+632,Airport,27.0,Trip Completed,50.0,0,Monday,12,Afternoon
+763,City,27.0,Trip Completed,66.0,0,Monday,16,Evening
+1786,Airport,27.0,Trip Completed,55.0,0,Tuesday,9,Morning
+1968,City,27.0,Trip Completed,39.0,0,Tuesday,12,Afternoon
+2088,Airport,27.0,Trip Completed,71.0,0,Tuesday,15,Afternoon
+2473,Airport,27.0,Trip Completed,37.0,0,Tuesday,20,Night
+84,City,28.0,Trip Completed,36.0,0,Monday,4,Early Morning
+1199,City,28.0,Trip Completed,36.0,0,Monday,21,Night
+1676,Airport,28.0,Trip Completed,56.0,0,Tuesday,7,Early Morning
+1584,Airport,29.0,Trip Completed,52.0,0,Tuesday,6,Early Morning
+1966,Airport,29.0,Trip Completed,67.0,0,Tuesday,12,Afternoon
+517,Airport,30.0,Trip Completed,39.0,0,Monday,9,Morning
+1406,Airport,30.0,Trip Completed,53.0,0,Tuesday,3,Late Night
+1643,Airport,30.0,Trip Completed,52.0,0,Tuesday,7,Early Morning
+2108,Airport,30.0,Trip Completed,34.0,0,Tuesday,16,Evening
+2647,City,30.0,Trip Completed,32.0,0,Tuesday,22,Night
+629,Airport,31.0,Trip Completed,46.0,0,Monday,12,Afternoon
+745,Airport,31.0,Trip Completed,57.0,0,Monday,15,Afternoon
+1064,City,31.0,Trip Completed,38.0,0,Monday,19,Evening
+1886,Airport,31.0,Trip Completed,25.0,0,Tuesday,10,Morning
+2162,Airport,32.0,Trip Completed,59.0,0,Tuesday,17,Evening
+145,City,33.0,Trip Completed,65.0,0,Monday,5,Early Morning
+735,City,33.0,Trip Completed,65.0,0,Monday,15,Afternoon
+918,Airport,33.0,Trip Completed,42.0,0,Monday,18,Evening
+1478,City,33.0,Trip Completed,57.0,0,Tuesday,5,Early Morning
+1957,City,33.0,Trip Completed,70.0,0,Tuesday,11,Morning
+738,City,34.0,Trip Completed,74.0,0,Monday,15,Afternoon
+360,Airport,35.0,Trip Completed,63.0,0,Monday,8,Morning
+771,Airport,35.0,Trip Completed,75.0,0,Monday,16,Evening
+1274,City,35.0,Trip Completed,80.0,0,Monday,22,Night
+1501,City,35.0,Trip Completed,66.0,0,Tuesday,5,Early Morning
+1972,City,35.0,Trip Completed,21.0,0,Tuesday,12,Afternoon
+1104,Airport,36.0,Trip Completed,63.0,0,Monday,20,Night
+1596,Airport,36.0,Trip Completed,51.0,0,Tuesday,6,Early Morning
+1835,Airport,36.0,Trip Completed,55.0,0,Tuesday,9,Morning
+2110,Airport,36.0,Trip Completed,53.0,0,Tuesday,16,Evening
+191,Airport,37.0,Trip Completed,50.0,0,Monday,5,Early Morning
+333,City,37.0,Trip Completed,70.0,0,Monday,7,Early Morning
+488,Airport,37.0,Trip Completed,45.0,0,Monday,9,Morning
+1780,City,37.0,Trip Completed,47.0,0,Tuesday,8,Morning
+2235,Airport,37.0,Trip Completed,62.0,0,Tuesday,18,Evening
+2516,City,37.0,Trip Completed,73.0,0,Tuesday,21,Night
+125,City,38.0,Trip Completed,65.0,0,Monday,5,Early Morning
+1611,City,38.0,Trip Completed,55.0,0,Tuesday,6,Early Morning
+1814,City,38.0,Trip Completed,40.0,0,Tuesday,9,Morning
+249,City,39.0,Trip Completed,43.0,0,Monday,6,Early Morning
+728,City,39.0,Trip Completed,64.0,0,Monday,15,Afternoon
+1353,Airport,40.0,Trip Completed,43.0,0,Monday,23,Night
+1568,City,40.0,Trip Completed,34.0,0,Tuesday,6,Early Morning
+2465,City,40.0,Trip Completed,59.0,0,Tuesday,20,Night
+1941,Airport,41.0,Trip Completed,40.0,0,Tuesday,11,Morning
+238,City,42.0,Trip Completed,48.0,0,Monday,6,Early Morning
+2624,City,42.0,Trip Completed,61.0,0,Tuesday,22,Night
+128,City,43.0,Trip Completed,36.0,0,Monday,5,Early Morning
+627,City,43.0,Trip Completed,58.0,0,Monday,12,Afternoon
+1766,Airport,43.0,Trip Completed,67.0,0,Tuesday,8,Morning
+2089,City,43.0,Trip Completed,43.0,0,Tuesday,15,Afternoon
+118,Airport,44.0,Trip Completed,41.0,0,Monday,5,Early Morning
+339,Airport,44.0,Trip Completed,56.0,0,Monday,7,Early Morning
+766,City,44.0,Trip Completed,64.0,0,Monday,16,Evening
+1133,Airport,44.0,Trip Completed,64.0,0,Monday,20,Night
+2458,City,44.0,Trip Completed,60.0,0,Tuesday,20,Night
+1698,City,45.0,Trip Completed,60.0,0,Tuesday,7,Early Morning
+2098,City,45.0,Trip Completed,30.0,0,Tuesday,16,Evening
+635,Airport,46.0,Trip Completed,64.0,0,Monday,12,Afternoon
+1275,Airport,46.0,Trip Completed,57.0,0,Monday,22,Night
+1562,Airport,46.0,Trip Completed,59.0,0,Tuesday,6,Early Morning
+995,Airport,47.0,Trip Completed,22.0,0,Monday,19,Evening
+1771,City,47.0,Trip Completed,31.0,0,Tuesday,8,Morning
+443,City,48.0,Trip Completed,40.0,0,Monday,9,Morning
+1299,City,48.0,Trip Completed,44.0,0,Monday,22,Night
+1637,Airport,48.0,Trip Completed,66.0,0,Tuesday,7,Early Morning
+2099,Airport,48.0,Trip Completed,73.0,0,Tuesday,16,Evening
+2349,Airport,48.0,Trip Completed,45.0,0,Tuesday,19,Evening
+540,City,49.0,Trip Completed,56.0,0,Monday,9,Morning
+1533,City,49.0,Trip Completed,36.0,0,Tuesday,5,Early Morning
+2359,City,49.0,Trip Completed,57.0,0,Tuesday,19,Evening
+2603,City,49.0,Trip Completed,51.0,0,Tuesday,22,Night
+2481,City,50.0,Trip Completed,57.0,0,Tuesday,20,Night
+686,City,51.0,Trip Completed,46.0,0,Monday,13,Afternoon
+777,Airport,51.0,Trip Completed,51.0,0,Monday,16,Evening
+1455,Airport,51.0,Trip Completed,31.0,0,Tuesday,4,Early Morning
+1906,Airport,51.0,Trip Completed,44.0,0,Tuesday,10,Morning
+2432,Airport,51.0,Trip Completed,44.0,0,Tuesday,20,Night
+64,City,52.0,Trip Completed,72.0,0,Monday,4,Early Morning
+687,Airport,52.0,Trip Completed,44.0,0,Monday,13,Afternoon
+1625,City,52.0,Trip Completed,48.0,0,Tuesday,7,Early Morning
+1958,Airport,52.0,Trip Completed,54.0,0,Tuesday,11,Morning
+2160,Airport,52.0,Trip Completed,35.0,0,Tuesday,17,Evening
+2517,Airport,52.0,Trip Completed,76.0,0,Tuesday,21,Night
+313,City,53.0,Trip Completed,69.0,0,Monday,7,Early Morning
+2107,City,53.0,Trip Completed,56.0,0,Tuesday,16,Evening
+234,City,54.0,Trip Completed,56.0,0,Monday,6,Early Morning
+425,Airport,54.0,Trip Completed,46.0,0,Monday,8,Morning
+1528,City,54.0,Trip Completed,35.0,0,Tuesday,5,Early Morning
+1671,Airport,54.0,Trip Completed,69.0,0,Tuesday,7,Early Morning
+2223,City,54.0,Trip Completed,65.0,0,Tuesday,18,Evening
+531,City,55.0,Trip Completed,35.0,0,Monday,10,Morning
+1721,City,55.0,Trip Completed,37.0,0,Tuesday,8,Morning
+2665,Airport,55.0,Trip Completed,0.0,0,Tuesday,23,Night
+1914,Airport,56.0,Trip Completed,70.0,0,Tuesday,10,Morning
+614,City,57.0,Trip Completed,63.0,0,Monday,11,Morning
+1340,City,57.0,Trip Completed,33.0,0,Monday,23,Night
+1576,City,57.0,Trip Completed,74.0,0,Tuesday,6,Early Morning
+1974,Airport,57.0,Trip Completed,48.0,0,Tuesday,12,Afternoon
+2597,City,57.0,Trip Completed,62.0,0,Tuesday,21,Night
+660,Airport,58.0,Trip Completed,49.0,0,Monday,12,Afternoon
+943,Airport,58.0,Trip Completed,51.0,0,Monday,18,Evening
+1445,Airport,58.0,Trip Completed,77.0,0,Tuesday,4,Early Morning
+172,Airport,59.0,Trip Completed,38.0,0,Monday,5,Early Morning
+518,City,59.0,Trip Completed,56.0,0,Monday,9,Morning
+843,Airport,59.0,Trip Completed,53.0,0,Monday,17,Evening
+1070,City,59.0,Trip Completed,60.0,0,Monday,19,Evening
+2078,Airport,59.0,Trip Completed,46.0,0,Tuesday,15,Afternoon
+620,City,60.0,Trip Completed,73.0,0,Monday,12,Afternoon
+1286,Airport,60.0,Trip Completed,41.0,0,Monday,22,Night
+2482,City,60.0,Trip Completed,57.0,0,Tuesday,20,Night
+1349,Airport,61.0,Trip Completed,41.0,0,Monday,23,Night
+2192,Airport,61.0,Trip Completed,55.0,0,Tuesday,17,Evening
+2323,City,61.0,Trip Completed,71.0,0,Tuesday,19,Evening
+418,City,62.0,Trip Completed,42.0,0,Monday,8,Morning
+608,Airport,62.0,Trip Completed,51.0,0,Monday,11,Morning
+1842,City,62.0,Trip Completed,38.0,0,Tuesday,9,Morning
+121,Airport,63.0,Trip Completed,55.0,0,Monday,5,Early Morning
+571,Airport,63.0,Trip Completed,60.0,0,Monday,10,Morning
+2444,Airport,63.0,Trip Completed,72.0,0,Tuesday,20,Night
+584,Airport,64.0,Trip Completed,71.0,0,Monday,11,Morning
+1741,Airport,64.0,Trip Completed,36.0,0,Tuesday,8,Morning
+2031,City,64.0,Trip Completed,34.0,0,Tuesday,14,Afternoon
+744,City,65.0,Trip Completed,49.0,0,Monday,15,Afternoon
+1634,Airport,65.0,Trip Completed,51.0,0,Tuesday,7,Early Morning
+1911,Airport,65.0,Trip Completed,58.0,0,Tuesday,10,Morning
+2608,Airport,65.0,Trip Completed,37.0,0,Tuesday,21,Night
+250,Airport,66.0,Trip Completed,65.0,0,Monday,6,Early Morning
+781,City,66.0,Trip Completed,61.0,0,Monday,16,Evening
+1681,Airport,66.0,Trip Completed,51.0,0,Tuesday,7,Early Morning
+630,Airport,67.0,Trip Completed,54.0,0,Monday,12,Afternoon
+679,City,67.0,Trip Completed,55.0,0,Monday,13,Afternoon
+782,Airport,67.0,Trip Completed,41.0,0,Monday,16,Evening
+1329,Airport,67.0,Trip Completed,35.0,0,Monday,23,Night
+1712,Airport,67.0,Trip Completed,52.0,0,Tuesday,8,Morning
+2033,City,67.0,Trip Completed,42.0,0,Tuesday,14,Afternoon
+1480,Airport,68.0,Trip Completed,51.0,0,Tuesday,5,Early Morning
+2013,City,68.0,Trip Completed,54.0,0,Tuesday,13,Afternoon
+93,City,69.0,Trip Completed,37.0,0,Monday,4,Early Morning
+402,Airport,69.0,Trip Completed,31.0,0,Monday,8,Morning
+582,City,69.0,Trip Completed,63.0,0,Monday,10,Morning
+733,City,69.0,Trip Completed,65.0,0,Monday,15,Afternoon
+951,Airport,69.0,Trip Completed,32.0,0,Monday,18,Evening
+1889,City,69.0,Trip Completed,64.0,0,Tuesday,10,Morning
+2046,Airport,69.0,Trip Completed,42.0,0,Tuesday,14,Afternoon
+2664,Airport,69.0,Trip Completed,0.0,0,Tuesday,23,Night
+514,City,70.0,Trip Completed,71.0,0,Monday,9,Morning
+703,City,70.0,Trip Completed,33.0,0,Monday,14,Afternoon
+947,City,70.0,Trip Completed,27.0,0,Monday,18,Evening
+2252,City,70.0,Trip Completed,34.0,0,Tuesday,18,Evening
+467,City,71.0,Trip Completed,57.0,0,Monday,9,Morning
+615,City,71.0,Trip Completed,49.0,0,Monday,11,Morning
+801,Airport,71.0,Trip Completed,73.0,0,Monday,17,Evening
+1587,Airport,71.0,Trip Completed,71.0,0,Tuesday,6,Early Morning
+1925,City,71.0,Trip Completed,45.0,0,Tuesday,11,Morning
+2527,City,71.0,Trip Completed,42.0,0,Tuesday,21,Night
+160,Airport,72.0,Trip Completed,56.0,0,Monday,5,Early Morning
+2029,City,72.0,Trip Completed,53.0,0,Tuesday,14,Afternoon
+2543,City,72.0,Trip Completed,37.0,0,Tuesday,21,Night
+81,Airport,73.0,Trip Completed,73.0,0,Monday,4,Early Morning
+370,City,73.0,Trip Completed,26.0,0,Monday,8,Morning
+799,Airport,73.0,Trip Completed,46.0,0,Monday,17,Evening
+1300,City,73.0,Trip Completed,25.0,0,Monday,22,Night
+1805,Airport,73.0,Trip Completed,52.0,0,Tuesday,9,Morning
+2410,City,73.0,Trip Completed,54.0,0,Tuesday,20,Night
+285,City,74.0,Trip Completed,38.0,0,Monday,7,Early Morning
+754,City,74.0,Trip Completed,47.0,0,Monday,16,Evening
+1449,Airport,74.0,Trip Completed,64.0,0,Tuesday,4,Early Morning
+462,City,75.0,Trip Completed,76.0,0,Monday,9,Morning
+817,City,75.0,Trip Completed,51.0,0,Monday,17,Evening
+1790,Airport,75.0,Trip Completed,52.0,0,Tuesday,9,Morning
+2014,City,75.0,Trip Completed,33.0,0,Tuesday,13,Afternoon
+2165,City,75.0,Trip Completed,53.0,0,Tuesday,17,Evening
+2627,City,75.0,Trip Completed,48.0,0,Tuesday,22,Night
+88,Airport,76.0,Trip Completed,73.0,0,Monday,4,Early Morning
+201,City,76.0,Trip Completed,71.0,0,Monday,6,Early Morning
+847,Airport,76.0,Trip Completed,59.0,0,Monday,17,Evening
+1585,Airport,76.0,Trip Completed,57.0,0,Tuesday,6,Early Morning
+2116,City,76.0,Trip Completed,36.0,0,Tuesday,16,Evening
+376,City,77.0,Trip Completed,38.0,0,Monday,8,Morning
+899,City,77.0,Trip Completed,67.0,0,Monday,18,Evening
+1112,Airport,77.0,Trip Completed,52.0,0,Monday,20,Night
+1444,City,77.0,Trip Completed,73.0,0,Tuesday,4,Early Morning
+1993,City,77.0,Trip Completed,52.0,0,Tuesday,12,Afternoon
+2417,City,77.0,Trip Completed,83.0,0,Tuesday,19,Evening
+34,City,78.0,Trip Completed,74.0,0,Monday,2,Late Night
+637,Airport,78.0,Trip Completed,67.0,0,Monday,12,Afternoon
+1005,City,78.0,Trip Completed,46.0,0,Monday,19,Evening
+1293,City,78.0,Trip Completed,56.0,0,Monday,22,Night
+1664,Airport,78.0,Trip Completed,70.0,0,Tuesday,7,Early Morning
+1915,City,78.0,Trip Completed,47.0,0,Tuesday,10,Morning
+645,City,79.0,Trip Completed,72.0,0,Monday,12,Afternoon
+732,Airport,79.0,Trip Completed,39.0,0,Monday,15,Afternoon
+1215,Airport,79.0,Trip Completed,55.0,0,Monday,21,Night
+1450,Airport,79.0,Trip Completed,60.0,0,Tuesday,4,Early Morning
+2044,Airport,79.0,Trip Completed,42.0,0,Tuesday,14,Afternoon
+2420,Airport,79.0,Trip Completed,57.0,0,Tuesday,20,Night
+3,Airport,80.0,Trip Completed,67.0,0,Monday,0,Late Night
+70,City,80.0,Trip Completed,56.0,0,Monday,4,Early Morning
+256,Airport,80.0,Trip Completed,54.0,0,Monday,6,Early Morning
+702,Airport,80.0,Trip Completed,43.0,0,Monday,14,Afternoon
+769,Airport,80.0,Trip Completed,64.0,0,Monday,16,Evening
+1277,City,80.0,Trip Completed,31.0,0,Monday,22,Night
+2062,Airport,80.0,Trip Completed,54.0,0,Tuesday,15,Afternoon
+2399,Airport,80.0,Trip Completed,44.0,0,Tuesday,19,Evening
+2645,Airport,80.0,Trip Completed,36.0,0,Tuesday,22,Night
+269,City,81.0,Trip Completed,59.0,0,Monday,6,Early Morning
+336,Airport,81.0,Trip Completed,54.0,0,Monday,7,Early Morning
+1241,Airport,81.0,Trip Completed,64.0,0,Monday,21,Night
+1651,Airport,81.0,Trip Completed,38.0,0,Tuesday,7,Early Morning
+1963,City,81.0,Trip Completed,63.0,0,Tuesday,11,Morning
+2368,City,81.0,Trip Completed,51.0,0,Tuesday,19,Evening
+286,City,82.0,Trip Completed,56.0,0,Monday,6,Early Morning
+547,Airport,82.0,Trip Completed,46.0,0,Monday,10,Morning
+574,City,82.0,Trip Completed,41.0,0,Monday,10,Morning
+936,Airport,82.0,Trip Completed,57.0,0,Monday,18,Evening
+1514,Airport,82.0,Trip Completed,37.0,0,Tuesday,5,Early Morning
+1656,City,82.0,Trip Completed,69.0,0,Tuesday,7,Early Morning
+2405,Airport,82.0,Trip Completed,52.0,0,Tuesday,20,Night
+520,City,83.0,Trip Completed,56.0,0,Monday,9,Morning
+1285,City,83.0,Trip Completed,64.0,0,Monday,22,Night
+422,City,84.0,Trip Completed,74.0,0,Monday,8,Morning
+578,Airport,84.0,Trip Completed,50.0,0,Monday,11,Morning
+603,Airport,85.0,Trip Completed,73.0,0,Monday,11,Morning
+1956,City,85.0,Trip Completed,47.0,0,Tuesday,11,Morning
+51,City,86.0,Trip Completed,59.0,0,Monday,3,Late Night
+446,City,86.0,Trip Completed,61.0,0,Monday,9,Morning
+1252,City,86.0,Trip Completed,67.0,0,Monday,21,Night
+1380,Airport,86.0,Trip Completed,74.0,0,Tuesday,1,Late Night
+1638,City,86.0,Trip Completed,35.0,0,Tuesday,7,Early Morning
+2152,Airport,86.0,Trip Completed,30.0,0,Tuesday,17,Evening
+246,Airport,87.0,Trip Completed,35.0,0,Monday,6,Early Morning
+980,Airport,87.0,Trip Completed,75.0,0,Monday,19,Evening
+1677,City,87.0,Trip Completed,38.0,0,Tuesday,7,Early Morning
+746,Airport,88.0,Trip Completed,47.0,0,Monday,15,Afternoon
+1488,Airport,88.0,Trip Completed,67.0,0,Tuesday,5,Early Morning
+1838,City,88.0,Trip Completed,30.0,0,Tuesday,9,Morning
+257,Airport,89.0,Trip Completed,72.0,0,Monday,6,Early Morning
+708,Airport,89.0,Trip Completed,32.0,0,Monday,14,Afternoon
+891,Airport,89.0,Trip Completed,64.0,0,Monday,18,Evening
+1748,City,89.0,Trip Completed,41.0,0,Tuesday,8,Morning
+2625,City,89.0,Trip Completed,69.0,0,Tuesday,22,Night
+1563,Airport,90.0,Trip Completed,76.0,0,Tuesday,6,Early Morning
+2207,Airport,90.0,Trip Completed,78.0,0,Tuesday,17,Evening
+1181,Airport,91.0,Trip Completed,62.0,0,Monday,21,Night
+1297,City,91.0,Trip Completed,41.0,0,Monday,22,Night
+1429,City,91.0,Trip Completed,41.0,0,Tuesday,4,Early Morning
+2104,City,91.0,Trip Completed,57.0,0,Tuesday,16,Evening
+870,City,92.0,Trip Completed,44.0,0,Monday,17,Evening
+2124,Airport,92.0,Trip Completed,38.0,0,Tuesday,16,Evening
+2457,Airport,92.0,Trip Completed,68.0,0,Tuesday,20,Night
+2621,City,92.0,Trip Completed,53.0,0,Tuesday,22,Night
+913,Airport,93.0,Trip Completed,57.0,0,Monday,18,Evening
+1852,City,93.0,Trip Completed,75.0,0,Tuesday,9,Morning
+692,Airport,94.0,Trip Completed,40.0,0,Monday,13,Afternoon
+1351,Airport,94.0,Trip Completed,65.0,0,Monday,23,Night
+1800,City,94.0,Trip Completed,56.0,0,Tuesday,9,Morning
+2434,City,94.0,Trip Completed,59.0,0,Tuesday,20,Night
+53,Airport,95.0,Trip Completed,52.0,0,Monday,3,Late Night
+156,Airport,96.0,Trip Completed,65.0,0,Monday,5,Early Morning
+350,City,96.0,Trip Completed,47.0,0,Monday,7,Early Morning
+976,Airport,96.0,Trip Completed,54.0,0,Monday,18,Evening
+1344,City,96.0,Trip Completed,64.0,0,Monday,23,Night
+1524,City,96.0,Trip Completed,69.0,0,Tuesday,5,Early Morning
+2143,Airport,96.0,Trip Completed,41.0,0,Tuesday,17,Evening
+2353,City,96.0,Trip Completed,52.0,0,Tuesday,19,Evening
+569,Airport,97.0,Trip Completed,67.0,0,Monday,10,Morning
+1626,Airport,97.0,Trip Completed,51.0,0,Tuesday,6,Early Morning
+1565,Airport,98.0,Trip Completed,71.0,0,Tuesday,6,Early Morning
+1973,Airport,98.0,Trip Completed,30.0,0,Tuesday,12,Afternoon
+2363,Airport,98.0,Trip Completed,61.0,0,Tuesday,19,Evening
+101,Airport,99.0,Trip Completed,61.0,0,Monday,5,Early Morning
+351,City,99.0,Trip Completed,62.0,0,Monday,7,Early Morning
+871,City,99.0,Trip Completed,45.0,0,Monday,17,Evening
+1330,Airport,99.0,Trip Completed,63.0,0,Monday,23,Night
+50,City,100.0,Trip Completed,35.0,0,Monday,3,Late Night
+102,Airport,100.0,Trip Completed,37.0,0,Monday,5,Early Morning
+211,City,100.0,Trip Completed,39.0,0,Monday,6,Early Morning
+510,City,100.0,Trip Completed,81.0,0,Monday,9,Morning
+1548,Airport,100.0,Trip Completed,62.0,0,Tuesday,6,Early Morning
+2208,City,100.0,Trip Completed,61.0,0,Tuesday,17,Evening
+639,City,101.0,Trip Completed,28.0,0,Monday,12,Afternoon
+1451,Airport,101.0,Trip Completed,47.0,0,Tuesday,4,Early Morning
+2335,City,101.0,Trip Completed,47.0,0,Tuesday,19,Evening
+2572,Airport,101.0,Trip Completed,67.0,0,Tuesday,21,Night
+373,Airport,102.0,Trip Completed,67.0,0,Monday,8,Morning
+1338,Airport,102.0,Trip Completed,35.0,0,Monday,23,Night
+1830,City,102.0,Trip Completed,70.0,0,Tuesday,9,Morning
+2274,City,102.0,Trip Completed,49.0,0,Tuesday,18,Evening
+2057,Airport,103.0,Trip Completed,34.0,0,Tuesday,15,Afternoon
+521,City,104.0,Trip Completed,67.0,0,Monday,9,Morning
+1850,City,104.0,Trip Completed,35.0,0,Tuesday,9,Morning
+148,Airport,105.0,Trip Completed,70.0,0,Monday,5,Early Morning
+1113,City,105.0,Trip Completed,37.0,0,Monday,20,Night
+1758,Airport,105.0,Trip Completed,35.0,0,Tuesday,8,Morning
+2395,Airport,105.0,Trip Completed,55.0,0,Tuesday,19,Evening
+507,Airport,106.0,Trip Completed,58.0,0,Monday,9,Morning
+1135,Airport,106.0,Trip Completed,52.0,0,Monday,20,Night
+1479,City,106.0,Trip Completed,42.0,0,Tuesday,5,Early Morning
+35,City,107.0,Trip Completed,27.0,0,Monday,2,Late Night
+161,Airport,107.0,Trip Completed,34.0,0,Monday,5,Early Morning
+831,Airport,107.0,Trip Completed,49.0,0,Monday,17,Evening
+1080,Airport,107.0,Trip Completed,39.0,0,Monday,19,Evening
+2496,City,107.0,Trip Completed,40.0,0,Tuesday,20,Night
+241,City,108.0,Trip Completed,46.0,0,Monday,6,Early Morning
+1339,Airport,108.0,Trip Completed,67.0,0,Monday,23,Night
+1454,City,108.0,Trip Completed,73.0,0,Tuesday,4,Early Morning
+41,City,109.0,Trip Completed,36.0,0,Monday,2,Late Night
+279,Airport,109.0,Trip Completed,49.0,0,Monday,6,Early Morning
+952,City,109.0,Trip Completed,40.0,0,Monday,18,Evening
+1200,Airport,109.0,Trip Completed,76.0,0,Monday,21,Night
+1775,City,109.0,Trip Completed,55.0,0,Tuesday,8,Morning
+1953,Airport,109.0,Trip Completed,63.0,0,Tuesday,11,Morning
+469,Airport,110.0,Trip Completed,40.0,0,Monday,9,Morning
+914,City,110.0,Trip Completed,41.0,0,Monday,18,Evening
+1386,Airport,110.0,Trip Completed,72.0,0,Tuesday,1,Late Night
+1935,City,110.0,Trip Completed,61.0,0,Tuesday,11,Morning
+707,Airport,111.0,Trip Completed,38.0,0,Monday,14,Afternoon
+1136,Airport,111.0,Trip Completed,48.0,0,Monday,20,Night
+180,Airport,112.0,Trip Completed,40.0,0,Monday,5,Early Morning
+1694,City,112.0,Trip Completed,54.0,0,Tuesday,7,Early Morning
+2294,City,112.0,Trip Completed,62.0,0,Tuesday,18,Evening
+170,City,113.0,Trip Completed,54.0,0,Monday,5,Early Morning
+1326,Airport,113.0,Trip Completed,61.0,0,Monday,23,Night
+1476,City,113.0,Trip Completed,48.0,0,Tuesday,5,Early Morning
+1483,City,114.0,Trip Completed,60.0,0,Tuesday,5,Early Morning
+1844,City,114.0,Trip Completed,31.0,0,Tuesday,9,Morning
+2120,Airport,114.0,Trip Completed,49.0,0,Tuesday,16,Evening
+2411,City,114.0,Trip Completed,36.0,0,Tuesday,20,Night
+664,Airport,115.0,Trip Completed,69.0,0,Monday,12,Afternoon
+750,City,115.0,Trip Completed,35.0,0,Monday,15,Afternoon
+1950,City,115.0,Trip Completed,31.0,0,Tuesday,11,Morning
+112,Airport,116.0,Trip Completed,63.0,0,Monday,5,Early Morning
+213,City,116.0,Trip Completed,42.0,0,Monday,6,Early Morning
+1818,Airport,116.0,Trip Completed,69.0,0,Tuesday,9,Morning
+2018,Airport,116.0,Trip Completed,40.0,0,Tuesday,13,Afternoon
+260,City,118.0,Trip Completed,69.0,0,Monday,6,Early Morning
+1077,Airport,118.0,Trip Completed,49.0,0,Monday,19,Evening
+1316,City,118.0,Trip Completed,51.0,0,Monday,22,Night
+1754,City,118.0,Trip Completed,57.0,0,Tuesday,8,Morning
+2086,City,118.0,Trip Completed,46.0,0,Tuesday,15,Afternoon
+13,City,119.0,Trip Completed,50.0,0,Monday,1,Late Night
+1907,City,119.0,Trip Completed,77.0,0,Tuesday,10,Morning
+1184,City,120.0,Trip Completed,70.0,0,Monday,21,Night
+1402,Airport,120.0,Trip Completed,60.0,0,Tuesday,2,Late Night
+1597,City,120.0,Trip Completed,62.0,0,Tuesday,6,Early Morning
+134,Airport,121.0,Trip Completed,61.0,0,Monday,5,Early Morning
+598,City,121.0,Trip Completed,41.0,0,Monday,11,Morning
+726,Airport,121.0,Trip Completed,63.0,0,Monday,15,Afternoon
+832,Airport,121.0,Trip Completed,38.0,0,Monday,17,Evening
+2065,City,121.0,Trip Completed,64.0,0,Tuesday,15,Afternoon
+1024,Airport,122.0,Trip Completed,60.0,0,Monday,19,Evening
+1452,City,122.0,Trip Completed,49.0,0,Tuesday,4,Early Morning
+2507,City,122.0,Trip Completed,25.0,0,Tuesday,21,Night
+533,Airport,123.0,Trip Completed,63.0,0,Monday,9,Morning
+1368,City,123.0,Trip Completed,43.0,0,Tuesday,0,Late Night
+2499,Airport,123.0,Trip Completed,68.0,0,Tuesday,20,Night
+47,City,124.0,Trip Completed,73.0,0,Monday,3,Late Night
+270,City,124.0,Trip Completed,56.0,0,Monday,6,Early Morning
+1007,City,124.0,Trip Completed,32.0,0,Monday,19,Evening
+2372,City,124.0,Trip Completed,38.0,0,Tuesday,19,Evening
+631,Airport,125.0,Trip Completed,69.0,0,Monday,12,Afternoon
+775,City,125.0,Trip Completed,66.0,0,Monday,16,Evening
+1006,Airport,125.0,Trip Completed,32.0,0,Monday,19,Evening
+1995,City,125.0,Trip Completed,70.0,0,Tuesday,12,Afternoon
+2248,City,125.0,Trip Completed,38.0,0,Tuesday,18,Evening
+2540,Airport,125.0,Trip Completed,46.0,0,Tuesday,21,Night
+90,Airport,126.0,Trip Completed,41.0,0,Monday,4,Early Morning
+532,City,126.0,Trip Completed,78.0,0,Monday,9,Morning
+1110,City,126.0,Trip Completed,73.0,0,Monday,20,Night
+1759,Airport,126.0,Trip Completed,70.0,0,Tuesday,8,Morning
+2147,City,126.0,Trip Completed,66.0,0,Tuesday,17,Evening
+504,City,127.0,Trip Completed,68.0,0,Monday,9,Morning
+640,Airport,127.0,Trip Completed,72.0,0,Monday,12,Afternoon
+1206,City,127.0,Trip Completed,50.0,0,Monday,21,Night
+1851,Airport,127.0,Trip Completed,70.0,0,Tuesday,9,Morning
+2412,Airport,127.0,Trip Completed,59.0,0,Tuesday,19,Evening
+878,City,128.0,Trip Completed,40.0,0,Monday,18,Evening
+1014,Airport,128.0,Trip Completed,52.0,0,Monday,19,Evening
+1628,Airport,128.0,Trip Completed,72.0,0,Tuesday,7,Early Morning
+2416,City,128.0,Trip Completed,63.0,0,Tuesday,20,Night
+343,City,129.0,Trip Completed,58.0,0,Monday,7,Early Morning
+1002,Airport,129.0,Trip Completed,47.0,0,Monday,19,Evening
+1571,Airport,129.0,Trip Completed,73.0,0,Tuesday,6,Early Morning
+1954,Airport,129.0,Trip Completed,25.0,0,Tuesday,11,Morning
+123,City,130.0,Trip Completed,62.0,0,Monday,5,Early Morning
+479,Airport,130.0,Trip Completed,77.0,0,Monday,9,Morning
+657,City,130.0,Trip Completed,51.0,0,Monday,12,Afternoon
+975,Airport,130.0,Trip Completed,71.0,0,Monday,18,Evening
+1307,Airport,130.0,Trip Completed,25.0,0,Monday,22,Night
+1672,City,130.0,Trip Completed,36.0,0,Tuesday,7,Early Morning
+1942,Airport,130.0,Trip Completed,61.0,0,Tuesday,11,Morning
+281,City,131.0,Trip Completed,69.0,0,Monday,7,Early Morning
+1902,City,131.0,Trip Completed,72.0,0,Tuesday,10,Morning
+405,City,132.0,Trip Completed,66.0,0,Monday,8,Morning
+585,City,132.0,Trip Completed,41.0,0,Monday,11,Morning
+729,Airport,132.0,Trip Completed,36.0,0,Monday,15,Afternoon
+1046,Airport,132.0,Trip Completed,41.0,0,Monday,19,Evening
+1663,Airport,132.0,Trip Completed,48.0,0,Tuesday,7,Early Morning
+701,City,133.0,Trip Completed,59.0,0,Monday,14,Afternoon
+1529,City,133.0,Trip Completed,53.0,0,Tuesday,5,Early Morning
+2060,Airport,133.0,Trip Completed,33.0,0,Tuesday,15,Afternoon
+2262,City,133.0,Trip Completed,29.0,0,Tuesday,18,Evening
+142,City,134.0,Trip Completed,54.0,0,Monday,5,Early Morning
+430,City,134.0,Trip Completed,58.0,0,Monday,8,Morning
+612,Airport,134.0,Trip Completed,50.0,0,Monday,11,Morning
+927,Airport,134.0,Trip Completed,37.0,0,Monday,18,Evening
+1010,City,134.0,Trip Completed,55.0,0,Monday,19,Evening
+1845,Airport,134.0,Trip Completed,71.0,0,Tuesday,9,Morning
+2234,Airport,134.0,Trip Completed,44.0,0,Tuesday,18,Evening
+2633,Airport,134.0,Trip Completed,48.0,0,Tuesday,22,Night
+565,City,135.0,Trip Completed,67.0,0,Monday,10,Morning
+599,Airport,135.0,Trip Completed,67.0,0,Monday,11,Morning
+1772,Airport,135.0,Trip Completed,38.0,0,Tuesday,8,Morning
+1363,Airport,136.0,Trip Completed,71.0,0,Monday,0,Late Night
+625,Airport,136.0,Trip Completed,70.0,0,Monday,12,Afternoon
+1636,Airport,136.0,Trip Completed,30.0,0,Tuesday,7,Early Morning
+2253,Airport,136.0,Trip Completed,69.0,0,Tuesday,18,Evening
+458,Airport,137.0,Trip Completed,72.0,0,Monday,9,Morning
+681,City,137.0,Trip Completed,46.0,0,Monday,13,Afternoon
+1084,Airport,137.0,Trip Completed,34.0,0,Monday,19,Evening
+1896,Airport,137.0,Trip Completed,62.0,0,Tuesday,10,Morning
+97,City,138.0,Trip Completed,38.0,0,Monday,5,Early Morning
+1266,Airport,138.0,Trip Completed,55.0,0,Monday,22,Night
+2118,Airport,138.0,Trip Completed,68.0,0,Tuesday,16,Evening
+242,Airport,139.0,Trip Completed,50.0,0,Monday,6,Early Morning
+1359,City,139.0,Trip Completed,59.0,0,Monday,23,Night
+1865,Airport,139.0,Trip Completed,68.0,0,Tuesday,9,Morning
+2024,Airport,139.0,Trip Completed,37.0,0,Tuesday,13,Afternoon
+2001,Airport,140.0,Trip Completed,59.0,0,Tuesday,13,Afternoon
+60,City,141.0,Trip Completed,49.0,0,Monday,3,Late Night
+282,City,141.0,Trip Completed,75.0,0,Monday,6,Early Morning
+1614,Airport,141.0,Trip Completed,35.0,0,Tuesday,6,Early Morning
+2331,Airport,141.0,Trip Completed,75.0,0,Tuesday,19,Evening
+444,Airport,142.0,Trip Completed,43.0,0,Monday,9,Morning
+1260,Airport,142.0,Trip Completed,71.0,0,Monday,21,Night
+1976,Airport,142.0,Trip Completed,72.0,0,Tuesday,12,Afternoon
+2096,Airport,142.0,Trip Completed,63.0,0,Tuesday,16,Evening
+638,City,143.0,Trip Completed,44.0,0,Monday,12,Afternoon
+1644,Airport,143.0,Trip Completed,42.0,0,Tuesday,7,Early Morning
+2040,Airport,143.0,Trip Completed,32.0,0,Tuesday,14,Afternoon
+243,City,144.0,Trip Completed,35.0,0,Monday,6,Early Morning
+296,Airport,144.0,Trip Completed,42.0,0,Monday,7,Early Morning
+677,City,144.0,Trip Completed,32.0,0,Monday,13,Afternoon
+1360,City,144.0,Trip Completed,75.0,0,Monday,23,Night
+1916,Airport,144.0,Trip Completed,28.0,0,Tuesday,10,Morning
+2397,City,144.0,Trip Completed,34.0,0,Tuesday,19,Evening
+998,Airport,145.0,Trip Completed,47.0,0,Monday,19,Evening
+1281,Airport,145.0,Trip Completed,39.0,0,Monday,22,Night
+2045,Airport,145.0,Trip Completed,23.0,0,Tuesday,14,Afternoon
+2424,City,145.0,Trip Completed,61.0,0,Tuesday,20,Night
+318,City,146.0,Trip Completed,75.0,0,Monday,7,Early Morning
+557,City,146.0,Trip Completed,55.0,0,Monday,10,Morning
+2034,Airport,146.0,Trip Completed,64.0,0,Tuesday,14,Afternoon
+2392,City,146.0,Trip Completed,74.0,0,Tuesday,19,Evening
+1827,Airport,147.0,Trip Completed,49.0,0,Tuesday,9,Morning
+2095,City,147.0,Trip Completed,47.0,0,Tuesday,15,Afternoon
+429,City,148.0,Trip Completed,53.0,0,Monday,8,Morning
+2681,Airport,148.0,Trip Completed,56.0,0,Tuesday,0,Late Night
+311,Airport,149.0,Trip Completed,41.0,0,Monday,7,Early Morning
+928,City,149.0,Trip Completed,46.0,0,Monday,18,Evening
+1468,City,149.0,Trip Completed,57.0,0,Tuesday,5,Early Morning
+2677,City,149.0,Trip Completed,0.0,0,Tuesday,23,Night
+48,City,150.0,Trip Completed,65.0,0,Monday,3,Late Night
+838,City,150.0,Trip Completed,58.0,0,Monday,17,Evening
+1657,Airport,150.0,Trip Completed,43.0,0,Tuesday,7,Early Morning
+2032,Airport,150.0,Trip Completed,66.0,0,Tuesday,14,Afternoon
+797,City,151.0,Trip Completed,56.0,0,Monday,17,Evening
+1564,City,151.0,Trip Completed,56.0,0,Tuesday,6,Early Morning
+2075,City,151.0,Trip Completed,76.0,0,Tuesday,15,Afternoon
+451,City,152.0,Trip Completed,60.0,0,Monday,9,Morning
+588,City,152.0,Trip Completed,33.0,0,Monday,11,Morning
+671,Airport,152.0,Trip Completed,52.0,0,Monday,13,Afternoon
+1369,Airport,152.0,Trip Completed,38.0,0,Tuesday,0,Late Night
+1688,City,152.0,Trip Completed,30.0,0,Tuesday,7,Early Morning
+704,Airport,153.0,Trip Completed,54.0,0,Monday,14,Afternoon
+785,City,153.0,Trip Completed,35.0,0,Monday,16,Evening
+2631,Airport,153.0,Trip Completed,49.0,0,Tuesday,22,Night
+604,City,154.0,Trip Completed,65.0,0,Monday,11,Morning
+1464,Airport,154.0,Trip Completed,60.0,0,Tuesday,5,Early Morning
+1810,City,154.0,Trip Completed,36.0,0,Tuesday,9,Morning
+2009,City,154.0,Trip Completed,68.0,0,Tuesday,13,Afternoon
+2166,City,154.0,Trip Completed,65.0,0,Tuesday,17,Evening
+1367,City,155.0,Trip Completed,61.0,0,Monday,0,Late Night
+447,City,155.0,Trip Completed,50.0,0,Monday,9,Morning
+1682,City,155.0,Trip Completed,51.0,0,Tuesday,7,Early Morning
+2043,Airport,155.0,Trip Completed,51.0,0,Tuesday,14,Afternoon
+438,City,156.0,Trip Completed,69.0,0,Monday,9,Morning
+636,City,156.0,Trip Completed,44.0,0,Monday,12,Afternoon
+1938,Airport,156.0,Trip Completed,42.0,0,Tuesday,11,Morning
+2129,Airport,156.0,Trip Completed,72.0,0,Tuesday,17,Evening
+143,Airport,157.0,Trip Completed,37.0,0,Monday,5,Early Morning
+784,City,157.0,Trip Completed,33.0,0,Monday,16,Evening
+1020,Airport,157.0,Trip Completed,51.0,0,Monday,19,Evening
+1262,Airport,158.0,Trip Completed,64.0,0,Monday,22,Night
+1600,City,158.0,Trip Completed,34.0,0,Tuesday,6,Early Morning
+2016,City,158.0,Trip Completed,62.0,0,Tuesday,13,Afternoon
+2370,Airport,158.0,Trip Completed,34.0,0,Tuesday,19,Evening
+398,City,159.0,Trip Completed,66.0,0,Monday,8,Morning
+2163,Airport,159.0,Trip Completed,37.0,0,Tuesday,17,Evening
+223,Airport,160.0,Trip Completed,52.0,0,Monday,6,Early Morning
+680,City,160.0,Trip Completed,68.0,0,Monday,13,Afternoon
+887,Airport,160.0,Trip Completed,37.0,0,Monday,18,Evening
+1689,Airport,160.0,Trip Completed,41.0,0,Tuesday,7,Early Morning
+1939,City,160.0,Trip Completed,36.0,0,Tuesday,11,Morning
+2182,City,160.0,Trip Completed,48.0,0,Tuesday,17,Evening
+163,City,161.0,Trip Completed,74.0,0,Monday,5,Early Morning
+706,Airport,161.0,Trip Completed,75.0,0,Monday,14,Afternoon
+1214,Airport,161.0,Trip Completed,27.0,0,Monday,21,Night
+1399,City,161.0,Trip Completed,67.0,0,Tuesday,2,Late Night
+1574,Airport,161.0,Trip Completed,49.0,0,Tuesday,6,Early Morning
+1870,City,161.0,Trip Completed,41.0,0,Tuesday,10,Morning
+2267,Airport,161.0,Trip Completed,63.0,0,Tuesday,18,Evening
+2658,Airport,161.0,Trip Completed,0.0,0,Tuesday,23,Night
+445,City,162.0,Trip Completed,59.0,0,Monday,9,Morning
+1100,Airport,162.0,Trip Completed,42.0,0,Monday,20,Night
+1961,City,162.0,Trip Completed,34.0,0,Tuesday,11,Morning
+675,City,163.0,Trip Completed,31.0,0,Monday,13,Afternoon
+1996,Airport,163.0,Trip Completed,69.0,0,Tuesday,12,Afternoon
+2510,City,163.0,Trip Completed,49.0,0,Tuesday,21,Night
+602,City,164.0,Trip Completed,79.0,0,Monday,11,Morning
+981,City,164.0,Trip Completed,38.0,0,Monday,19,Evening
+1317,Airport,164.0,Trip Completed,55.0,0,Monday,22,Night
+2112,Airport,164.0,Trip Completed,31.0,0,Tuesday,16,Evening
+2365,City,164.0,Trip Completed,38.0,0,Tuesday,19,Evening
+741,Airport,165.0,Trip Completed,48.0,0,Monday,15,Afternoon
+1873,City,165.0,Trip Completed,45.0,0,Tuesday,9,Morning
+2134,Airport,165.0,Trip Completed,30.0,0,Tuesday,17,Evening
+248,City,166.0,Trip Completed,67.0,0,Monday,6,Early Morning
+1321,Airport,166.0,Trip Completed,64.0,0,Monday,23,Night
+1997,City,166.0,Trip Completed,55.0,0,Tuesday,13,Afternoon
+2544,City,166.0,Trip Completed,29.0,0,Tuesday,21,Night
+500,Airport,167.0,Trip Completed,34.0,0,Monday,9,Morning
+1518,City,167.0,Trip Completed,48.0,0,Tuesday,5,Early Morning
+1679,City,168.0,Trip Completed,38.0,0,Tuesday,7,Early Morning
+2276,Airport,168.0,Trip Completed,68.0,0,Tuesday,18,Evening
+759,City,169.0,Trip Completed,31.0,0,Monday,16,Evening
+2524,Airport,169.0,Trip Completed,46.0,0,Tuesday,21,Night
+33,Airport,170.0,Trip Completed,74.0,0,Monday,2,Late Night
+699,Airport,171.0,Trip Completed,60.0,0,Monday,14,Afternoon
+821,City,171.0,Trip Completed,23.0,0,Monday,17,Evening
+2085,City,171.0,Trip Completed,46.0,0,Tuesday,15,Afternoon
+2346,Airport,171.0,Trip Completed,47.0,0,Tuesday,19,Evening
+714,City,172.0,Trip Completed,66.0,0,Monday,14,Afternoon
+792,Airport,172.0,Trip Completed,43.0,0,Monday,17,Evening
+1341,Airport,172.0,Trip Completed,40.0,0,Monday,23,Night
+1745,City,172.0,Trip Completed,51.0,0,Tuesday,8,Morning
+1971,City,172.0,Trip Completed,77.0,0,Tuesday,12,Afternoon
+2632,City,172.0,Trip Completed,62.0,0,Tuesday,22,Night
+752,Airport,173.0,Trip Completed,65.0,0,Monday,16,Evening
+1336,City,173.0,Trip Completed,35.0,0,Monday,23,Night
+1836,Airport,173.0,Trip Completed,42.0,0,Tuesday,9,Morning
+2447,Airport,173.0,Trip Completed,72.0,0,Tuesday,20,Night
+426,City,174.0,Trip Completed,65.0,0,Monday,8,Morning
+1320,City,174.0,Trip Completed,74.0,0,Monday,22,Night
+1588,City,174.0,Trip Completed,47.0,0,Tuesday,6,Early Morning
+2375,Airport,174.0,Trip Completed,60.0,0,Tuesday,19,Evening
+545,City,175.0,Trip Completed,36.0,0,Monday,10,Morning
+778,City,175.0,Trip Completed,39.0,0,Monday,16,Evening
+1289,City,175.0,Trip Completed,29.0,0,Monday,22,Night
+1654,Airport,175.0,Trip Completed,43.0,0,Tuesday,7,Early Morning
+1945,Airport,175.0,Trip Completed,71.0,0,Tuesday,11,Morning
+2460,City,175.0,Trip Completed,71.0,0,Tuesday,20,Night
+923,City,176.0,Trip Completed,71.0,0,Monday,18,Evening
+1439,City,176.0,Trip Completed,34.0,0,Tuesday,4,Early Morning
+2130,City,176.0,Trip Completed,42.0,0,Tuesday,17,Evening
+863,City,177.0,Trip Completed,48.0,0,Monday,17,Evening
+1324,City,177.0,Trip Completed,66.0,0,Monday,22,Night
+1666,City,177.0,Trip Completed,72.0,0,Tuesday,7,Early Morning
+1797,Airport,177.0,Trip Completed,26.0,0,Tuesday,9,Morning
+2279,Airport,177.0,Trip Completed,48.0,0,Tuesday,18,Evening
+455,City,178.0,Trip Completed,55.0,0,Monday,9,Morning
+651,Airport,178.0,Trip Completed,40.0,0,Monday,12,Afternoon
+742,City,178.0,Trip Completed,47.0,0,Monday,15,Afternoon
+828,Airport,178.0,Trip Completed,32.0,0,Monday,17,Evening
+1701,City,178.0,Trip Completed,49.0,0,Tuesday,7,Early Morning
+1985,City,178.0,Trip Completed,65.0,0,Tuesday,12,Afternoon
+2277,City,178.0,Trip Completed,55.0,0,Tuesday,18,Evening
+483,City,179.0,Trip Completed,38.0,0,Monday,9,Morning
+628,Airport,179.0,Trip Completed,41.0,0,Monday,12,Afternoon
+2285,City,179.0,Trip Completed,40.0,0,Tuesday,18,Evening
+788,City,180.0,Trip Completed,61.0,0,Monday,16,Evening
+1550,Airport,180.0,Trip Completed,66.0,0,Tuesday,6,Early Morning
+2069,Airport,180.0,Trip Completed,35.0,0,Tuesday,15,Afternoon
+2593,City,180.0,Trip Completed,52.0,0,Tuesday,21,Night
+1151,Airport,181.0,Trip Completed,58.0,0,Monday,20,Night
+1812,Airport,181.0,Trip Completed,53.0,0,Tuesday,9,Morning
+1946,Airport,181.0,Trip Completed,64.0,0,Tuesday,11,Morning
+2646,City,181.0,Trip Completed,59.0,0,Tuesday,22,Night
+325,City,182.0,Trip Completed,70.0,0,Monday,7,Early Morning
+1015,City,182.0,Trip Completed,56.0,0,Monday,19,Evening
+1308,City,182.0,Trip Completed,73.0,0,Monday,22,Night
+1667,City,182.0,Trip Completed,21.0,0,Tuesday,7,Early Morning
+2436,Airport,182.0,Trip Completed,31.0,0,Tuesday,20,Night
+573,Airport,183.0,Trip Completed,33.0,0,Monday,10,Morning
+789,City,183.0,Trip Completed,42.0,0,Monday,16,Evening
+1525,City,183.0,Trip Completed,58.0,0,Tuesday,5,Early Morning
+169,City,184.0,Trip Completed,63.0,0,Monday,5,Early Morning
+537,City,184.0,Trip Completed,52.0,0,Monday,10,Morning
+682,City,184.0,Trip Completed,47.0,0,Monday,13,Afternoon
+1384,City,184.0,Trip Completed,63.0,0,Tuesday,1,Late Night
+2167,Airport,184.0,Trip Completed,60.0,0,Tuesday,17,Evening
+2295,City,184.0,Trip Completed,24.0,0,Tuesday,18,Evening
+616,Airport,185.0,Trip Completed,43.0,0,Monday,12,Afternoon
+1056,City,185.0,Trip Completed,39.0,0,Monday,19,Evening
+1903,City,185.0,Trip Completed,56.0,0,Tuesday,10,Morning
+2643,City,185.0,Trip Completed,57.0,0,Tuesday,22,Night
+1345,Airport,186.0,Trip Completed,32.0,0,Monday,23,Night
+1874,Airport,186.0,Trip Completed,46.0,0,Tuesday,9,Morning
+2413,City,186.0,Trip Completed,74.0,0,Tuesday,20,Night
+320,City,187.0,Trip Completed,72.0,0,Monday,7,Early Morning
+717,City,187.0,Trip Completed,54.0,0,Monday,14,Afternoon
+2074,City,187.0,Trip Completed,52.0,0,Tuesday,15,Afternoon
+173,City,188.0,Trip Completed,45.0,0,Monday,5,Early Morning
+698,City,188.0,Trip Completed,49.0,0,Monday,14,Afternoon
+2039,Airport,188.0,Trip Completed,49.0,0,Tuesday,14,Afternoon
+2467,Airport,188.0,Trip Completed,67.0,0,Tuesday,20,Night
+2676,Airport,188.0,Trip Completed,0.0,0,Tuesday,23,Night
+2445,City,190.0,Trip Completed,46.0,0,Tuesday,20,Night
+146,Airport,191.0,Trip Completed,39.0,0,Monday,5,Early Morning
+652,Airport,191.0,Trip Completed,46.0,0,Monday,12,Afternoon
+1947,Airport,191.0,Trip Completed,36.0,0,Tuesday,11,Morning
+2236,Airport,191.0,Trip Completed,51.0,0,Tuesday,18,Evening
+800,Airport,192.0,Trip Completed,43.0,0,Monday,17,Evening
+1484,Airport,192.0,Trip Completed,36.0,0,Tuesday,5,Early Morning
+1989,Airport,192.0,Trip Completed,31.0,0,Tuesday,12,Afternoon
+392,Airport,193.0,Trip Completed,47.0,0,Monday,8,Morning
+653,City,193.0,Trip Completed,66.0,0,Monday,12,Afternoon
+1283,City,193.0,Trip Completed,69.0,0,Monday,22,Night
+1860,City,193.0,Trip Completed,37.0,0,Tuesday,9,Morning
+1910,Airport,193.0,Trip Completed,46.0,0,Tuesday,10,Morning
+2259,Airport,193.0,Trip Completed,66.0,0,Tuesday,18,Evening
+21,Airport,194.0,Trip Completed,36.0,0,Monday,1,Late Night
+106,City,194.0,Trip Completed,32.0,0,Monday,5,Early Morning
+512,Airport,194.0,Trip Completed,68.0,0,Monday,9,Morning
+760,City,194.0,Trip Completed,38.0,0,Monday,16,Evening
+1098,City,194.0,Trip Completed,48.0,0,Monday,20,Night
+1314,Airport,194.0,Trip Completed,67.0,0,Monday,22,Night
+564,Airport,195.0,Trip Completed,63.0,0,Monday,10,Morning
+1271,Airport,195.0,Trip Completed,38.0,0,Monday,22,Night
+1647,Airport,195.0,Trip Completed,38.0,0,Tuesday,7,Early Morning
+283,Airport,196.0,Trip Completed,31.0,0,Monday,7,Early Morning
+489,City,196.0,Trip Completed,52.0,0,Monday,9,Morning
+1559,Airport,196.0,Trip Completed,44.0,0,Tuesday,6,Early Morning
+2545,Airport,196.0,Trip Completed,33.0,0,Tuesday,21,Night
+335,City,197.0,Trip Completed,44.0,0,Monday,7,Early Morning
+558,City,197.0,Trip Completed,57.0,0,Monday,10,Morning
+844,City,197.0,Trip Completed,70.0,0,Monday,17,Evening
+1186,City,197.0,Trip Completed,71.0,0,Monday,21,Night
+1705,City,197.0,Trip Completed,52.0,0,Tuesday,8,Morning
+2469,Airport,197.0,Trip Completed,52.0,0,Tuesday,20,Night
+11,City,198.0,Trip Completed,53.0,0,Monday,1,Late Night
+519,City,198.0,Trip Completed,71.0,0,Monday,9,Morning
+1994,Airport,198.0,Trip Completed,59.0,0,Tuesday,12,Afternoon
+2483,Airport,198.0,Trip Completed,67.0,0,Tuesday,20,Night
+2635,City,198.0,Trip Completed,67.0,0,Tuesday,22,Night
+165,Airport,199.0,Trip Completed,32.0,0,Monday,5,Early Morning
+1706,City,199.0,Trip Completed,61.0,0,Tuesday,8,Morning
+1821,Airport,199.0,Trip Completed,65.0,0,Tuesday,9,Morning
+2629,City,199.0,Trip Completed,38.0,0,Tuesday,22,Night
+590,City,200.0,Trip Completed,50.0,0,Monday,11,Morning
+779,Airport,200.0,Trip Completed,34.0,0,Monday,16,Evening
+1085,City,200.0,Trip Completed,55.0,0,Monday,20,Night
+1435,City,200.0,Trip Completed,69.0,0,Tuesday,4,Early Morning
+2007,City,200.0,Trip Completed,60.0,0,Tuesday,13,Afternoon
+2381,City,200.0,Trip Completed,72.0,0,Tuesday,19,Evening
+406,Airport,201.0,Trip Completed,58.0,0,Monday,8,Morning
+740,Airport,201.0,Trip Completed,40.0,0,Monday,15,Afternoon
+1312,City,201.0,Trip Completed,49.0,0,Monday,22,Night
+1540,Airport,201.0,Trip Completed,51.0,0,Tuesday,6,Early Morning
+1962,City,201.0,Trip Completed,62.0,0,Tuesday,11,Morning
+2173,Airport,201.0,Trip Completed,59.0,0,Tuesday,17,Evening
+197,City,202.0,Trip Completed,49.0,0,Monday,6,Early Morning
+819,Airport,202.0,Trip Completed,43.0,0,Monday,17,Evening
+1527,Airport,202.0,Trip Completed,75.0,0,Tuesday,5,Early Morning
+220,Airport,203.0,Trip Completed,44.0,0,Monday,6,Early Morning
+909,Airport,203.0,Trip Completed,51.0,0,Monday,18,Evening
+1306,Airport,203.0,Trip Completed,67.0,0,Monday,22,Night
+583,Airport,204.0,Trip Completed,50.0,0,Monday,11,Morning
+772,City,204.0,Trip Completed,71.0,0,Monday,16,Evening
+1142,City,204.0,Trip Completed,58.0,0,Monday,20,Night
+1436,City,204.0,Trip Completed,36.0,0,Tuesday,4,Early Morning
+1986,City,204.0,Trip Completed,33.0,0,Tuesday,12,Afternoon
+2508,Airport,204.0,Trip Completed,56.0,0,Tuesday,21,Night
+542,Airport,205.0,Trip Completed,56.0,0,Monday,10,Morning
+605,Airport,205.0,Trip Completed,49.0,0,Monday,11,Morning
+1908,Airport,205.0,Trip Completed,65.0,0,Tuesday,10,Morning
+297,Airport,206.0,Trip Completed,30.0,0,Monday,7,Early Morning
+501,City,206.0,Trip Completed,33.0,0,Monday,9,Morning
+826,City,206.0,Trip Completed,67.0,0,Monday,17,Evening
+2339,City,206.0,Trip Completed,53.0,0,Tuesday,19,Evening
+876,Airport,207.0,Trip Completed,35.0,0,Monday,17,Evening
+1318,City,207.0,Trip Completed,54.0,0,Monday,22,Night
+1477,Airport,207.0,Trip Completed,57.0,0,Tuesday,5,Early Morning
+2084,Airport,207.0,Trip Completed,54.0,0,Tuesday,15,Afternoon
+2354,Airport,207.0,Trip Completed,44.0,0,Tuesday,19,Evening
+1278,City,208.0,Trip Completed,62.0,0,Monday,22,Night
+2037,City,208.0,Trip Completed,51.0,0,Tuesday,14,Afternoon
+2567,Airport,208.0,Trip Completed,49.0,0,Tuesday,21,Night
+2008,Airport,209.0,Trip Completed,65.0,0,Tuesday,13,Afternoon
+1551,City,210.0,Trip Completed,44.0,0,Tuesday,6,Early Morning
+2041,City,210.0,Trip Completed,49.0,0,Tuesday,14,Afternoon
+2666,City,210.0,Trip Completed,0.0,0,Tuesday,23,Night
+1471,City,211.0,Trip Completed,52.0,0,Tuesday,5,Early Morning
+1808,Airport,211.0,Trip Completed,77.0,0,Tuesday,9,Morning
+2017,City,211.0,Trip Completed,39.0,0,Tuesday,13,Afternoon
+575,Airport,212.0,Trip Completed,52.0,0,Monday,10,Morning
+753,Airport,212.0,Trip Completed,67.0,0,Monday,15,Afternoon
+999,City,212.0,Trip Completed,74.0,0,Monday,19,Evening
+1534,Airport,212.0,Trip Completed,59.0,0,Tuesday,5,Early Morning
+1773,Airport,212.0,Trip Completed,66.0,0,Tuesday,8,Morning
+1890,City,212.0,Trip Completed,68.0,0,Tuesday,10,Morning
+2609,Airport,212.0,Trip Completed,56.0,0,Tuesday,22,Night
+87,City,213.0,Trip Completed,40.0,0,Monday,4,Early Morning
+859,City,213.0,Trip Completed,56.0,0,Monday,17,Evening
+1170,City,213.0,Trip Completed,33.0,0,Monday,20,Night
+2511,City,213.0,Trip Completed,68.0,0,Tuesday,21,Night
+600,City,214.0,Trip Completed,69.0,0,Monday,11,Morning
+2053,Airport,214.0,Trip Completed,66.0,0,Tuesday,14,Afternoon
+2256,Airport,214.0,Trip Completed,28.0,0,Tuesday,18,Evening
+214,City,215.0,Trip Completed,40.0,0,Monday,6,Early Morning
+423,City,215.0,Trip Completed,45.0,0,Monday,8,Morning
+1138,City,215.0,Trip Completed,42.0,0,Monday,20,Night
+1977,Airport,215.0,Trip Completed,43.0,0,Tuesday,12,Afternoon
+2328,City,215.0,Trip Completed,49.0,0,Tuesday,19,Evening
+484,City,216.0,Trip Completed,46.0,0,Monday,9,Morning
+855,City,216.0,Trip Completed,37.0,0,Monday,17,Evening
+114,City,217.0,Trip Completed,30.0,0,Monday,5,Early Morning
+470,City,217.0,Trip Completed,38.0,0,Monday,9,Morning
+1446,City,217.0,Trip Completed,53.0,0,Tuesday,4,Early Morning
+1065,Airport,218.0,Trip Completed,52.0,0,Monday,19,Evening
+1457,Airport,218.0,Trip Completed,28.0,0,Tuesday,4,Early Morning
+280,Airport,219.0,Trip Completed,36.0,0,Monday,7,Early Morning
+475,Airport,219.0,Trip Completed,57.0,0,Monday,9,Morning
+1350,City,219.0,Trip Completed,46.0,0,Monday,23,Night
+609,City,220.0,Trip Completed,55.0,0,Monday,11,Morning
+1414,Airport,220.0,Trip Completed,68.0,0,Tuesday,3,Late Night
+1713,Airport,220.0,Trip Completed,37.0,0,Tuesday,8,Morning
+1991,City,220.0,Trip Completed,49.0,0,Tuesday,12,Afternoon
+2082,Airport,220.0,Trip Completed,56.0,0,Tuesday,15,Afternoon
+304,City,221.0,Trip Completed,29.0,0,Monday,7,Early Morning
+700,City,221.0,Trip Completed,35.0,0,Monday,14,Afternoon
+1708,Airport,221.0,Trip Completed,29.0,0,Tuesday,8,Morning
+1918,City,221.0,Trip Completed,74.0,0,Tuesday,10,Morning
+2067,Airport,221.0,Trip Completed,61.0,0,Tuesday,15,Afternoon
+1295,City,222.0,Trip Completed,38.0,0,Monday,22,Night
+1829,Airport,222.0,Trip Completed,47.0,0,Tuesday,9,Morning
+2135,City,222.0,Trip Completed,46.0,0,Tuesday,17,Evening
+330,Airport,223.0,Trip Completed,73.0,0,Monday,7,Early Morning
+626,Airport,223.0,Trip Completed,50.0,0,Monday,12,Afternoon
+857,City,223.0,Trip Completed,50.0,0,Monday,17,Evening
+2679,Airport,223.0,Trip Completed,0.0,0,Tuesday,23,Night
+904,Airport,224.0,Trip Completed,72.0,0,Monday,18,Evening
+1459,Airport,224.0,Trip Completed,42.0,0,Tuesday,4,Early Morning
+2636,Airport,224.0,Trip Completed,71.0,0,Tuesday,22,Night
+182,Airport,225.0,Trip Completed,72.0,0,Monday,5,Early Morning
+621,Airport,225.0,Trip Completed,57.0,0,Monday,12,Afternoon
+967,Airport,225.0,Trip Completed,51.0,0,Monday,18,Evening
+1422,Airport,225.0,Trip Completed,73.0,0,Tuesday,4,Early Morning
+1891,City,225.0,Trip Completed,56.0,0,Tuesday,10,Morning
+2307,City,225.0,Trip Completed,51.0,0,Tuesday,18,Evening
+642,City,226.0,Trip Completed,77.0,0,Monday,12,Afternoon
+1119,Airport,226.0,Trip Completed,42.0,0,Monday,20,Night
+1861,City,226.0,Trip Completed,38.0,0,Tuesday,9,Morning
+2168,Airport,226.0,Trip Completed,63.0,0,Tuesday,17,Evening
+919,Airport,227.0,Trip Completed,38.0,0,Monday,18,Evening
+1097,City,227.0,Trip Completed,51.0,0,Monday,20,Night
+1447,Airport,227.0,Trip Completed,39.0,0,Tuesday,4,Early Morning
+2105,City,227.0,Trip Completed,74.0,0,Tuesday,16,Evening
+2598,Airport,227.0,Trip Completed,31.0,0,Tuesday,21,Night
+10,City,228.0,Trip Completed,65.0,0,Monday,0,Late Night
+387,Airport,228.0,Trip Completed,48.0,0,Monday,8,Morning
+586,City,228.0,Trip Completed,38.0,0,Monday,11,Morning
+710,City,228.0,Trip Completed,58.0,0,Monday,14,Afternoon
+1658,Airport,228.0,Trip Completed,70.0,0,Tuesday,7,Early Morning
+2227,City,228.0,Trip Completed,30.0,0,Tuesday,18,Evening
+2668,Airport,228.0,Trip Completed,0.0,0,Tuesday,23,Night
+1960,Airport,229.0,Trip Completed,61.0,0,Tuesday,11,Morning
+205,Airport,230.0,Trip Completed,60.0,0,Monday,6,Early Morning
+853,Airport,230.0,Trip Completed,71.0,0,Monday,17,Evening
+1196,City,230.0,Trip Completed,51.0,0,Monday,21,Night
+1598,Airport,230.0,Trip Completed,53.0,0,Tuesday,6,Early Morning
+2406,City,230.0,Trip Completed,40.0,0,Tuesday,19,Evening
+292,City,231.0,Trip Completed,37.0,0,Monday,7,Early Morning
+384,Airport,231.0,Trip Completed,36.0,0,Monday,8,Morning
+1296,Airport,231.0,Trip Completed,70.0,0,Monday,22,Night
+1978,City,231.0,Trip Completed,39.0,0,Tuesday,12,Afternoon
+206,City,232.0,Trip Completed,30.0,0,Monday,6,Early Morning
+595,City,232.0,Trip Completed,70.0,0,Monday,11,Morning
+2310,City,232.0,Trip Completed,67.0,0,Tuesday,18,Evening
+301,City,233.0,Trip Completed,61.0,0,Monday,7,Early Morning
+1057,Airport,233.0,Trip Completed,49.0,0,Monday,19,Evening
+1408,Airport,233.0,Trip Completed,55.0,0,Tuesday,3,Late Night
+1453,City,233.0,Trip Completed,61.0,0,Tuesday,4,Early Morning
+1882,Airport,233.0,Trip Completed,65.0,0,Tuesday,10,Morning
+2111,Airport,233.0,Trip Completed,60.0,0,Tuesday,16,Evening
+2360,City,233.0,Trip Completed,32.0,0,Tuesday,19,Evening
+91,Airport,234.0,Trip Completed,50.0,0,Monday,4,Early Morning
+756,Airport,234.0,Trip Completed,34.0,0,Monday,16,Evening
+1680,City,234.0,Trip Completed,57.0,0,Tuesday,7,Early Morning
+2047,City,234.0,Trip Completed,42.0,0,Tuesday,14,Afternoon
+9,Airport,235.0,Trip Completed,75.0,0,Monday,0,Late Night
+448,City,235.0,Trip Completed,55.0,0,Monday,9,Morning
+1203,City,235.0,Trip Completed,73.0,0,Monday,21,Night
+2010,Airport,235.0,Trip Completed,34.0,0,Tuesday,13,Afternoon
+872,Airport,236.0,Trip Completed,42.0,0,Monday,17,Evening
+1652,Airport,236.0,Trip Completed,69.0,0,Tuesday,7,Early Morning
+2000,Airport,236.0,Trip Completed,44.0,0,Tuesday,12,Afternoon
+1343,City,237.0,Trip Completed,55.0,0,Monday,23,Night
+1519,Airport,237.0,Trip Completed,39.0,0,Tuesday,5,Early Morning
+2076,Airport,237.0,Trip Completed,76.0,0,Tuesday,15,Afternoon
+2136,City,237.0,Trip Completed,58.0,0,Tuesday,17,Evening
+2650,Airport,237.0,Trip Completed,46.0,0,Tuesday,22,Night
+1526,City,238.0,Trip Completed,56.0,0,Tuesday,5,Early Morning
+1839,City,238.0,Trip Completed,70.0,0,Tuesday,9,Morning
+2268,City,238.0,Trip Completed,53.0,0,Tuesday,18,Evening
+74,Airport,239.0,Trip Completed,66.0,0,Monday,4,Early Morning
+1959,City,239.0,Trip Completed,32.0,0,Tuesday,11,Morning
+2169,Airport,239.0,Trip Completed,81.0,0,Tuesday,17,Evening
+1496,Airport,240.0,Trip Completed,37.0,0,Tuesday,5,Early Morning
+2589,City,240.0,Trip Completed,71.0,0,Tuesday,21,Night
+884,Airport,241.0,Trip Completed,34.0,0,Monday,18,Evening
+1495,Airport,241.0,Trip Completed,38.0,0,Tuesday,5,Early Morning
+1782,Airport,241.0,Trip Completed,48.0,0,Tuesday,8,Morning
+1928,City,241.0,Trip Completed,31.0,0,Tuesday,11,Morning
+2195,Airport,241.0,Trip Completed,58.0,0,Tuesday,17,Evening
+648,City,242.0,Trip Completed,49.0,0,Monday,12,Afternoon
+1171,City,242.0,Trip Completed,59.0,0,Monday,20,Night
+1354,City,242.0,Trip Completed,67.0,0,Monday,23,Night
+1901,Airport,242.0,Trip Completed,65.0,0,Tuesday,10,Morning
+2181,Airport,242.0,Trip Completed,49.0,0,Tuesday,17,Evening
+271,Airport,243.0,Trip Completed,38.0,0,Monday,6,Early Morning
+1238,City,243.0,Trip Completed,71.0,0,Monday,21,Night
+1802,Airport,243.0,Trip Completed,74.0,0,Tuesday,9,Morning
+656,Airport,244.0,Trip Completed,30.0,0,Monday,12,Afternoon
+715,City,244.0,Trip Completed,73.0,0,Monday,14,Afternoon
+1086,Airport,244.0,Trip Completed,32.0,0,Monday,20,Night
+1504,Airport,244.0,Trip Completed,25.0,0,Tuesday,5,Early Morning
+1675,Airport,244.0,Trip Completed,47.0,0,Tuesday,7,Early Morning
+225,City,245.0,Trip Completed,72.0,0,Monday,6,Early Morning
+1163,City,245.0,Trip Completed,64.0,0,Monday,20,Night
+2200,City,245.0,Trip Completed,39.0,0,Tuesday,17,Evening
+2382,Airport,245.0,Trip Completed,59.0,0,Tuesday,19,Evening
+481,City,246.0,Trip Completed,39.0,0,Monday,9,Morning
+739,Airport,246.0,Trip Completed,44.0,0,Monday,15,Afternoon
+834,City,246.0,Trip Completed,29.0,0,Monday,17,Evening
+1175,City,246.0,Trip Completed,68.0,0,Monday,20,Night
+1425,Airport,246.0,Trip Completed,75.0,0,Tuesday,4,Early Morning
+2327,City,246.0,Trip Completed,64.0,0,Tuesday,19,Evening
+2535,Airport,246.0,Trip Completed,55.0,0,Tuesday,21,Night
+222,Airport,247.0,Trip Completed,50.0,0,Monday,6,Early Morning
+720,Airport,247.0,Trip Completed,44.0,0,Monday,14,Afternoon
+1573,Airport,247.0,Trip Completed,62.0,0,Tuesday,6,Early Morning
+2070,Airport,247.0,Trip Completed,50.0,0,Tuesday,15,Afternoon
+338,City,248.0,Trip Completed,65.0,0,Monday,7,Early Morning
+661,Airport,248.0,Trip Completed,76.0,0,Monday,12,Afternoon
+1187,Airport,248.0,Trip Completed,43.0,0,Monday,21,Night
+1510,Airport,248.0,Trip Completed,40.0,0,Tuesday,5,Early Morning
+1645,City,248.0,Trip Completed,73.0,0,Tuesday,7,Early Morning
+2356,City,248.0,Trip Completed,29.0,0,Tuesday,19,Evening
+198,Airport,249.0,Trip Completed,41.0,0,Monday,6,Early Morning
+513,Airport,249.0,Trip Completed,76.0,0,Monday,9,Morning
+727,Airport,249.0,Trip Completed,78.0,0,Monday,15,Afternoon
+1094,Airport,249.0,Trip Completed,66.0,0,Monday,20,Night
+1508,Airport,249.0,Trip Completed,45.0,0,Tuesday,5,Early Morning
+1735,City,250.0,Trip Completed,65.0,0,Tuesday,8,Morning
+515,Airport,251.0,Trip Completed,71.0,0,Monday,9,Morning
+697,City,251.0,Trip Completed,58.0,0,Monday,13,Afternoon
+2591,City,251.0,Trip Completed,68.0,0,Tuesday,21,Night
+183,City,252.0,Trip Completed,40.0,0,Monday,5,Early Morning
+1210,Airport,252.0,Trip Completed,69.0,0,Monday,21,Night
+1382,City,252.0,Trip Completed,35.0,0,Tuesday,1,Late Night
+1899,City,252.0,Trip Completed,66.0,0,Tuesday,10,Morning
+382,City,253.0,Trip Completed,54.0,0,Monday,8,Morning
+2035,City,253.0,Trip Completed,51.0,0,Tuesday,14,Afternoon
+329,Airport,254.0,Trip Completed,67.0,0,Monday,7,Early Morning
+465,City,254.0,Trip Completed,40.0,0,Monday,9,Morning
+650,City,254.0,Trip Completed,74.0,0,Monday,12,Afternoon
+900,Airport,254.0,Trip Completed,38.0,0,Monday,18,Evening
+1309,City,254.0,Trip Completed,35.0,0,Monday,22,Night
+2340,Airport,254.0,Trip Completed,32.0,0,Tuesday,19,Evening
+66,City,255.0,Trip Completed,33.0,0,Monday,4,Early Morning
+688,Airport,255.0,Trip Completed,46.0,0,Monday,13,Afternoon
+1924,City,255.0,Trip Completed,42.0,0,Tuesday,11,Morning
+2463,City,255.0,Trip Completed,62.0,0,Tuesday,20,Night
+100,City,256.0,Trip Completed,47.0,0,Monday,5,Early Morning
+1129,Airport,256.0,Trip Completed,68.0,0,Monday,20,Night
+2560,City,256.0,Trip Completed,41.0,0,Tuesday,21,Night
+2662,Airport,256.0,Trip Completed,0.0,0,Tuesday,23,Night
+1310,City,257.0,Trip Completed,51.0,0,Monday,22,Night
+1497,City,257.0,Trip Completed,71.0,0,Tuesday,5,Early Morning
+663,Airport,258.0,Trip Completed,52.0,0,Monday,12,Afternoon
+1059,Airport,258.0,Trip Completed,74.0,0,Monday,19,Evening
+1279,City,258.0,Trip Completed,25.0,0,Monday,22,Night
+2683,City,258.0,Trip Completed,41.0,0,Tuesday,0,Late Night
+1940,Airport,258.0,Trip Completed,77.0,0,Tuesday,11,Morning
+694,City,259.0,Trip Completed,43.0,0,Monday,13,Afternoon
+1515,City,259.0,Trip Completed,35.0,0,Tuesday,5,Early Morning
+1581,Airport,259.0,Trip Completed,60.0,0,Tuesday,6,Early Morning
+394,Airport,260.0,Trip Completed,37.0,0,Monday,8,Morning
+1442,Airport,260.0,Trip Completed,53.0,0,Tuesday,4,Early Morning
+273,Airport,261.0,Trip Completed,64.0,0,Monday,6,Early Morning
+794,City,261.0,Trip Completed,48.0,0,Monday,17,Evening
+1044,City,261.0,Trip Completed,43.0,0,Monday,19,Evening
+1629,Airport,261.0,Trip Completed,51.0,0,Tuesday,7,Early Morning
+2050,Airport,261.0,Trip Completed,47.0,0,Tuesday,14,Afternoon
+2209,City,261.0,Trip Completed,45.0,0,Tuesday,17,Evening
+361,City,262.0,Trip Completed,43.0,0,Monday,8,Morning
+1101,City,262.0,Trip Completed,54.0,0,Monday,20,Night
+1272,Airport,262.0,Trip Completed,56.0,0,Monday,22,Night
+2106,City,262.0,Trip Completed,41.0,0,Tuesday,16,Evening
+2584,Airport,262.0,Trip Completed,53.0,0,Tuesday,21,Night
+751,Airport,263.0,Trip Completed,33.0,0,Monday,16,Evening
+992,City,263.0,Trip Completed,72.0,0,Monday,19,Evening
+1247,Airport,263.0,Trip Completed,56.0,0,Monday,21,Night
+1465,City,263.0,Trip Completed,78.0,0,Tuesday,4,Early Morning
+1686,City,263.0,Trip Completed,73.0,0,Tuesday,7,Early Morning
+2642,City,263.0,Trip Completed,61.0,0,Tuesday,22,Night
+5,Airport,264.0,Trip Completed,59.0,0,Monday,0,Late Night
+374,Airport,264.0,Trip Completed,53.0,0,Monday,8,Morning
+721,City,264.0,Trip Completed,50.0,0,Monday,14,Afternoon
+1130,City,264.0,Trip Completed,75.0,0,Monday,20,Night
+2449,Airport,264.0,Trip Completed,49.0,0,Tuesday,20,Night
+94,City,265.0,Trip Completed,59.0,0,Monday,4,Early Morning
+1197,City,265.0,Trip Completed,50.0,0,Monday,21,Night
+1633,Airport,265.0,Trip Completed,60.0,0,Tuesday,7,Early Morning
+1930,City,265.0,Trip Completed,59.0,0,Tuesday,11,Morning
+389,City,266.0,Trip Completed,57.0,0,Monday,8,Morning
+712,Airport,266.0,Trip Completed,30.0,0,Monday,14,Afternoon
+972,Airport,266.0,Trip Completed,52.0,0,Monday,18,Evening
+1811,City,266.0,Trip Completed,53.0,0,Tuesday,9,Morning
+2126,City,266.0,Trip Completed,70.0,0,Tuesday,16,Evening
+2604,City,267.0,Trip Completed,46.0,0,Tuesday,22,Night
+251,Airport,268.0,Trip Completed,32.0,0,Monday,6,Early Morning
+618,City,268.0,Trip Completed,62.0,0,Monday,12,Afternoon
+1595,Airport,268.0,Trip Completed,36.0,0,Tuesday,6,Early Morning
+2087,Airport,268.0,Trip Completed,67.0,0,Tuesday,15,Afternoon
+596,City,269.0,Trip Completed,58.0,0,Monday,11,Morning
+910,Airport,269.0,Trip Completed,40.0,0,Monday,18,Evening
+1751,Airport,269.0,Trip Completed,50.0,0,Tuesday,8,Morning
+1952,City,269.0,Trip Completed,51.0,0,Tuesday,11,Morning
+95,Airport,270.0,Trip Completed,69.0,0,Monday,4,Early Morning
+944,City,270.0,Trip Completed,34.0,0,Monday,18,Evening
+1066,Airport,270.0,Trip Completed,53.0,0,Monday,19,Evening
+1592,City,270.0,Trip Completed,71.0,0,Tuesday,6,Early Morning
+2461,Airport,270.0,Trip Completed,60.0,0,Tuesday,20,Night
+559,City,271.0,Trip Completed,49.0,0,Monday,10,Morning
+860,City,271.0,Trip Completed,43.0,0,Monday,17,Evening
+1724,City,271.0,Trip Completed,68.0,0,Tuesday,8,Morning
+597,Airport,272.0,Trip Completed,42.0,0,Monday,11,Morning
+1417,City,272.0,Trip Completed,32.0,0,Tuesday,3,Late Night
+1714,Airport,272.0,Trip Completed,68.0,0,Tuesday,8,Morning
+1919,City,272.0,Trip Completed,74.0,0,Tuesday,10,Morning
+258,Airport,273.0,Trip Completed,43.0,0,Monday,6,Early Morning
+723,City,273.0,Trip Completed,51.0,0,Monday,15,Afternoon
+930,City,273.0,Trip Completed,41.0,0,Monday,18,Evening
+1498,City,273.0,Trip Completed,45.0,0,Tuesday,5,Early Morning
+2553,Airport,273.0,Trip Completed,81.0,0,Tuesday,21,Night
+410,City,274.0,Trip Completed,51.0,0,Monday,8,Morning
+610,Airport,274.0,Trip Completed,69.0,0,Monday,11,Morning
+719,Airport,274.0,Trip Completed,40.0,0,Monday,14,Afternoon
+1060,City,274.0,Trip Completed,58.0,0,Monday,19,Evening
+1929,City,274.0,Trip Completed,58.0,0,Tuesday,11,Morning
+2101,City,274.0,Trip Completed,60.0,0,Tuesday,16,Evening
+2282,City,274.0,Trip Completed,63.0,0,Tuesday,18,Evening
+314,Airport,275.0,Trip Completed,47.0,0,Monday,7,Early Morning
+757,Airport,275.0,Trip Completed,51.0,0,Monday,16,Evening
+2123,City,275.0,Trip Completed,55.0,0,Tuesday,16,Evening
+303,Airport,276.0,Trip Completed,42.0,0,Monday,7,Early Morning
+560,Airport,276.0,Trip Completed,69.0,0,Monday,10,Morning
+1319,City,276.0,Trip Completed,55.0,0,Monday,22,Night
+1493,Airport,276.0,Trip Completed,54.0,0,Tuesday,5,Early Morning
+1662,City,276.0,Trip Completed,65.0,0,Tuesday,7,Early Morning
+2020,City,276.0,Trip Completed,57.0,0,Tuesday,13,Afternoon
+2407,City,276.0,Trip Completed,50.0,0,Tuesday,19,Evening
+579,City,277.0,Trip Completed,58.0,0,Monday,11,Morning
+689,City,277.0,Trip Completed,34.0,0,Monday,13,Afternoon
+724,Airport,277.0,Trip Completed,36.0,0,Monday,15,Afternoon
+1499,City,277.0,Trip Completed,48.0,0,Tuesday,5,Early Morning
+1577,Airport,278.0,Trip Completed,75.0,0,Tuesday,6,Early Morning
+2197,Airport,278.0,Trip Completed,34.0,0,Tuesday,17,Evening
+2509,City,278.0,Trip Completed,50.0,0,Tuesday,21,Night
+375,Airport,279.0,Trip Completed,79.0,0,Monday,8,Morning
+555,City,279.0,Trip Completed,45.0,0,Monday,10,Morning
+622,Airport,279.0,Trip Completed,74.0,0,Monday,12,Afternoon
+1975,City,279.0,Trip Completed,77.0,0,Tuesday,12,Afternoon
+89,City,280.0,Trip Completed,59.0,0,Monday,4,Early Morning
+805,Airport,280.0,Trip Completed,59.0,0,Monday,17,Evening
+592,City,281.0,Trip Completed,36.0,0,Monday,11,Morning
+737,Airport,281.0,Trip Completed,34.0,0,Monday,15,Afternoon
+1108,City,281.0,Trip Completed,42.0,0,Monday,20,Night
+1387,Airport,281.0,Trip Completed,45.0,0,Tuesday,1,Late Night
+2311,Airport,281.0,Trip Completed,56.0,0,Tuesday,19,Evening
+672,Airport,282.0,Trip Completed,62.0,0,Monday,13,Afternoon
+1578,Airport,282.0,Trip Completed,77.0,0,Tuesday,6,Early Morning
+649,City,283.0,Trip Completed,34.0,0,Monday,12,Afternoon
+1040,City,283.0,Trip Completed,42.0,0,Monday,19,Evening
+1461,Airport,283.0,Trip Completed,72.0,0,Tuesday,4,Early Morning
+2497,City,283.0,Trip Completed,45.0,0,Tuesday,20,Night
+420,City,284.0,Trip Completed,50.0,0,Monday,8,Morning
+662,City,284.0,Trip Completed,64.0,0,Monday,12,Afternoon
+791,Airport,284.0,Trip Completed,40.0,0,Monday,16,Evening
+1164,City,284.0,Trip Completed,49.0,0,Monday,20,Night
+1,Airport,285.0,Trip Completed,31.0,0,Monday,0,Late Night
+1923,City,285.0,Trip Completed,60.0,0,Tuesday,11,Morning
+116,Airport,286.0,Trip Completed,46.0,0,Monday,5,Early Morning
+761,Airport,286.0,Trip Completed,61.0,0,Monday,16,Evening
+932,City,286.0,Trip Completed,52.0,0,Monday,18,Evening
+1217,City,286.0,Trip Completed,76.0,0,Monday,21,Night
+1617,Airport,286.0,Trip Completed,30.0,0,Tuesday,6,Early Morning
+1849,Airport,286.0,Trip Completed,46.0,0,Tuesday,9,Morning
+2055,City,286.0,Trip Completed,49.0,0,Tuesday,14,Afternoon
+845,City,287.0,Trip Completed,76.0,0,Monday,17,Evening
+1832,Airport,287.0,Trip Completed,32.0,0,Tuesday,9,Morning
+1301,Airport,288.0,Trip Completed,43.0,0,Monday,22,Night
+2203,City,288.0,Trip Completed,37.0,0,Tuesday,17,Evening
+2569,City,288.0,Trip Completed,30.0,0,Tuesday,21,Night
+158,City,289.0,Trip Completed,66.0,0,Monday,5,Early Morning
+1290,City,289.0,Trip Completed,37.0,0,Monday,22,Night
+2441,City,289.0,Trip Completed,62.0,0,Tuesday,20,Night
+82,Airport,290.0,Trip Completed,36.0,0,Monday,4,Early Morning
+2518,Airport,290.0,Trip Completed,63.0,0,Tuesday,21,Night
+2644,City,290.0,Trip Completed,41.0,0,Tuesday,22,Night
+2025,City,291.0,Trip Completed,62.0,0,Tuesday,13,Afternoon
+2270,City,291.0,Trip Completed,49.0,0,Tuesday,18,Evening
+497,City,292.0,Trip Completed,36.0,0,Monday,9,Morning
+1071,Airport,292.0,Trip Completed,34.0,0,Monday,19,Evening
+1709,City,292.0,Trip Completed,62.0,0,Tuesday,8,Morning
+2348,City,292.0,Trip Completed,65.0,0,Tuesday,19,Evening
+1008,Airport,293.0,Trip Completed,64.0,0,Monday,19,Evening
+2430,City,293.0,Trip Completed,32.0,0,Tuesday,20,Night
+152,City,294.0,Trip Completed,47.0,0,Monday,5,Early Morning
+1207,Airport,294.0,Trip Completed,69.0,0,Monday,21,Night
+1377,Airport,294.0,Trip Completed,61.0,0,Tuesday,0,Late Night
+1606,Airport,294.0,Trip Completed,65.0,0,Tuesday,6,Early Morning
+1920,City,294.0,Trip Completed,62.0,0,Tuesday,10,Morning
+476,City,295.0,Trip Completed,38.0,0,Monday,9,Morning
+1052,Airport,295.0,Trip Completed,72.0,0,Monday,19,Evening
+1743,Airport,295.0,Trip Completed,42.0,0,Tuesday,8,Morning
+477,City,296.0,Trip Completed,73.0,0,Monday,9,Morning
+643,City,296.0,Trip Completed,45.0,0,Monday,12,Afternoon
+1152,Airport,296.0,Trip Completed,49.0,0,Monday,20,Night
+1333,City,296.0,Trip Completed,58.0,0,Monday,23,Night
+1659,City,296.0,Trip Completed,50.0,0,Tuesday,7,Early Morning
+2657,Airport,296.0,Trip Completed,0.0,0,Tuesday,23,Night
+30,Airport,297.0,Trip Completed,33.0,0,Monday,2,Late Night
+195,City,297.0,Trip Completed,47.0,0,Monday,6,Early Morning
+993,City,297.0,Trip Completed,41.0,0,Monday,19,Evening
+1774,Airport,297.0,Trip Completed,67.0,0,Tuesday,8,Morning
+2648,City,297.0,Trip Completed,54.0,0,Tuesday,22,Night
+1690,Airport,298.0,Trip Completed,64.0,0,Tuesday,7,Early Morning
+2404,Airport,298.0,Trip Completed,56.0,0,Tuesday,20,Night
+1244,City,299.0,Trip Completed,37.0,0,Monday,21,Night
+2249,City,299.0,Trip Completed,45.0,0,Tuesday,18,Evening
+1315,Airport,300.0,Trip Completed,41.0,0,Monday,22,Night
+2347,Airport,2.0,Cancelled,0.0,1,Tuesday,19,Evening
+80,City,3.0,Cancelled,0.0,1,Monday,4,Early Morning
+534,City,3.0,Cancelled,0.0,1,Monday,10,Morning
+1867,Airport,3.0,Cancelled,0.0,1,Tuesday,9,Morning
+748,City,4.0,Cancelled,0.0,1,Monday,15,Afternoon
+1254,Airport,4.0,Cancelled,0.0,1,Monday,21,Night
+247,City,7.0,Cancelled,0.0,1,Monday,6,Early Morning
+2582,Airport,7.0,Cancelled,0.0,1,Tuesday,21,Night
+1687,City,8.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+150,City,9.0,Cancelled,0.0,1,Monday,5,Early Morning
+233,City,9.0,Cancelled,0.0,1,Monday,6,Early Morning
+1880,City,9.0,Cancelled,0.0,1,Tuesday,10,Morning
+570,City,13.0,Cancelled,0.0,1,Monday,10,Morning
+1691,City,13.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+306,City,15.0,Cancelled,0.0,1,Monday,7,Early Morning
+92,City,16.0,Cancelled,0.0,1,Monday,4,Early Morning
+1648,City,17.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1894,Airport,19.0,Cancelled,0.0,1,Tuesday,10,Morning
+352,City,20.0,Cancelled,0.0,1,Monday,7,Early Morning
+1841,City,20.0,Cancelled,0.0,1,Tuesday,9,Morning
+1885,City,20.0,Cancelled,0.0,1,Tuesday,10,Morning
+96,City,21.0,Cancelled,0.0,1,Monday,4,Early Morning
+132,City,21.0,Cancelled,0.0,1,Monday,5,Early Morning
+232,City,22.0,Cancelled,0.0,1,Monday,6,Early Morning
+275,City,22.0,Cancelled,0.0,1,Monday,7,Early Morning
+554,City,22.0,Cancelled,0.0,1,Monday,10,Morning
+1462,Airport,23.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+196,Airport,24.0,Cancelled,0.0,1,Monday,6,Early Morning
+236,City,24.0,Cancelled,0.0,1,Monday,6,Early Morning
+1502,City,24.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1615,City,24.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1794,City,25.0,Cancelled,0.0,1,Tuesday,9,Morning
+276,City,27.0,Cancelled,0.0,1,Monday,6,Early Morning
+1613,City,27.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1539,City,28.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1770,City,28.0,Cancelled,0.0,1,Tuesday,8,Morning
+1921,City,28.0,Cancelled,0.0,1,Tuesday,10,Morning
+2079,Airport,29.0,Cancelled,0.0,1,Tuesday,15,Afternoon
+218,City,30.0,Cancelled,0.0,1,Monday,6,Early Morning
+840,Airport,30.0,Cancelled,0.0,1,Monday,17,Evening
+1642,City,30.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1475,City,31.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+2179,Airport,31.0,Cancelled,0.0,1,Tuesday,17,Evening
+400,City,32.0,Cancelled,0.0,1,Monday,8,Morning
+2146,Airport,32.0,Cancelled,0.0,1,Tuesday,17,Evening
+2305,City,33.0,Cancelled,0.0,1,Tuesday,18,Evening
+457,City,34.0,Cancelled,0.0,1,Monday,9,Morning
+511,City,34.0,Cancelled,0.0,1,Monday,9,Morning
+2530,City,35.0,Cancelled,0.0,1,Tuesday,21,Night
+2596,City,35.0,Cancelled,0.0,1,Tuesday,21,Night
+200,City,36.0,Cancelled,0.0,1,Monday,6,Early Morning
+1531,City,36.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+572,Airport,38.0,Cancelled,0.0,1,Monday,10,Morning
+1566,City,38.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2266,Airport,38.0,Cancelled,0.0,1,Tuesday,18,Evening
+1649,City,39.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+126,City,40.0,Cancelled,0.0,1,Monday,5,Early Morning
+436,City,40.0,Cancelled,0.0,1,Monday,8,Morning
+1620,City,40.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2206,City,40.0,Cancelled,0.0,1,Tuesday,17,Evening
+2131,City,41.0,Cancelled,0.0,1,Tuesday,17,Evening
+401,City,43.0,Cancelled,0.0,1,Monday,8,Morning
+461,City,43.0,Cancelled,0.0,1,Monday,9,Morning
+289,City,44.0,Cancelled,0.0,1,Monday,7,Early Morning
+1303,City,44.0,Cancelled,0.0,1,Monday,22,Night
+1817,City,44.0,Cancelled,0.0,1,Tuesday,9,Morning
+1520,City,45.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1789,City,45.0,Cancelled,0.0,1,Tuesday,9,Morning
+2484,Airport,45.0,Cancelled,0.0,1,Tuesday,20,Night
+424,City,46.0,Cancelled,0.0,1,Monday,8,Morning
+377,City,47.0,Cancelled,0.0,1,Monday,8,Morning
+454,City,47.0,Cancelled,0.0,1,Monday,9,Morning
+1603,City,47.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2526,Airport,48.0,Cancelled,0.0,1,Tuesday,21,Night
+141,City,49.0,Cancelled,0.0,1,Monday,5,Early Morning
+491,City,49.0,Cancelled,0.0,1,Monday,9,Morning
+1875,City,49.0,Cancelled,0.0,1,Tuesday,10,Morning
+209,City,50.0,Cancelled,0.0,1,Monday,6,Early Morning
+278,City,50.0,Cancelled,0.0,1,Monday,6,Early Morning
+1381,City,50.0,Cancelled,0.0,1,Tuesday,1,Late Night
+1781,City,52.0,Cancelled,0.0,1,Tuesday,9,Morning
+1787,City,52.0,Cancelled,0.0,1,Tuesday,9,Morning
+2423,Airport,52.0,Cancelled,0.0,1,Tuesday,20,Night
+411,City,53.0,Cancelled,0.0,1,Monday,8,Morning
+216,City,54.0,Cancelled,0.0,1,Monday,6,Early Morning
+1898,City,54.0,Cancelled,0.0,1,Tuesday,10,Morning
+2077,City,54.0,Cancelled,0.0,1,Tuesday,15,Afternoon
+2486,Airport,54.0,Cancelled,0.0,1,Tuesday,20,Night
+237,City,56.0,Cancelled,0.0,1,Monday,6,Early Morning
+323,City,57.0,Cancelled,0.0,1,Monday,7,Early Morning
+421,City,57.0,Cancelled,0.0,1,Monday,8,Morning
+1458,City,57.0,Cancelled,0.0,1,Tuesday,4,Early Morning
+1034,Airport,58.0,Cancelled,0.0,1,Monday,19,Evening
+1543,City,58.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+328,City,59.0,Cancelled,0.0,1,Monday,7,Early Morning
+580,City,59.0,Cancelled,0.0,1,Monday,10,Morning
+235,City,61.0,Cancelled,0.0,1,Monday,6,Early Morning
+2109,Airport,61.0,Cancelled,0.0,1,Tuesday,16,Evening
+111,City,62.0,Cancelled,0.0,1,Monday,5,Early Morning
+168,City,62.0,Cancelled,0.0,1,Monday,5,Early Morning
+187,City,62.0,Cancelled,0.0,1,Monday,5,Early Morning
+1492,City,62.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+474,City,63.0,Cancelled,0.0,1,Monday,9,Morning
+1722,City,63.0,Cancelled,0.0,1,Tuesday,8,Morning
+1325,City,64.0,Cancelled,0.0,1,Monday,23,Night
+1723,City,65.0,Cancelled,0.0,1,Tuesday,8,Morning
+1513,City,66.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+2011,City,66.0,Cancelled,0.0,1,Tuesday,13,Afternoon
+176,City,67.0,Cancelled,0.0,1,Monday,5,Early Morning
+386,City,68.0,Cancelled,0.0,1,Monday,8,Morning
+528,City,68.0,Cancelled,0.0,1,Monday,9,Morning
+2556,Airport,68.0,Cancelled,0.0,1,Tuesday,21,Night
+245,City,69.0,Cancelled,0.0,1,Monday,6,Early Morning
+1532,City,69.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+99,City,70.0,Cancelled,0.0,1,Monday,5,Early Morning
+162,City,70.0,Cancelled,0.0,1,Monday,5,Early Morning
+307,City,70.0,Cancelled,0.0,1,Monday,7,Early Morning
+1767,City,70.0,Cancelled,0.0,1,Tuesday,8,Morning
+353,City,72.0,Cancelled,0.0,1,Monday,7,Early Morning
+397,City,72.0,Cancelled,0.0,1,Monday,8,Morning
+1843,City,72.0,Cancelled,0.0,1,Tuesday,9,Morning
+2019,City,72.0,Cancelled,0.0,1,Tuesday,13,Afternoon
+1732,City,73.0,Cancelled,0.0,1,Tuesday,8,Morning
+1984,City,73.0,Cancelled,0.0,1,Tuesday,12,Afternoon
+2048,Airport,74.0,Cancelled,0.0,1,Tuesday,14,Afternoon
+1426,City,76.0,Cancelled,0.0,1,Tuesday,4,Early Morning
+1704,City,77.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+210,City,79.0,Cancelled,0.0,1,Monday,6,Early Morning
+403,City,79.0,Cancelled,0.0,1,Monday,8,Morning
+568,Airport,79.0,Cancelled,0.0,1,Monday,10,Morning
+856,City,79.0,Cancelled,0.0,1,Monday,17,Evening
+1757,City,79.0,Cancelled,0.0,1,Tuesday,8,Morning
+2003,Airport,81.0,Cancelled,0.0,1,Tuesday,13,Afternoon
+1881,City,82.0,Cancelled,0.0,1,Tuesday,10,Morning
+1557,City,83.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1661,City,83.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+2022,City,83.0,Cancelled,0.0,1,Tuesday,13,Afternoon
+536,City,84.0,Cancelled,0.0,1,Monday,9,Morning
+1134,Airport,84.0,Cancelled,0.0,1,Monday,20,Night
+1604,City,84.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1653,City,84.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1695,City,84.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+324,City,85.0,Cancelled,0.0,1,Monday,7,Early Morning
+1294,City,87.0,Cancelled,0.0,1,Monday,22,Night
+428,City,88.0,Cancelled,0.0,1,Monday,8,Morning
+450,City,88.0,Cancelled,0.0,1,Monday,9,Morning
+432,City,89.0,Cancelled,0.0,1,Monday,8,Morning
+2491,Airport,89.0,Cancelled,0.0,1,Tuesday,20,Night
+543,City,91.0,Cancelled,0.0,1,Monday,10,Morning
+2552,City,93.0,Cancelled,0.0,1,Tuesday,21,Night
+202,City,94.0,Cancelled,0.0,1,Monday,6,Early Morning
+341,City,94.0,Cancelled,0.0,1,Monday,7,Early Morning
+1231,City,97.0,Cancelled,0.0,1,Monday,21,Night
+1589,City,97.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1815,City,97.0,Cancelled,0.0,1,Tuesday,9,Morning
+239,City,98.0,Cancelled,0.0,1,Monday,6,Early Morning
+551,City,98.0,Cancelled,0.0,1,Monday,10,Morning
+2097,Airport,98.0,Cancelled,0.0,1,Tuesday,16,Evening
+2613,Airport,98.0,Cancelled,0.0,1,Tuesday,22,Night
+482,City,99.0,Cancelled,0.0,1,Monday,9,Morning
+544,City,99.0,Cancelled,0.0,1,Monday,10,Morning
+1227,Airport,99.0,Cancelled,0.0,1,Monday,21,Night
+1489,City,99.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+2588,Airport,99.0,Cancelled,0.0,1,Tuesday,21,Night
+1356,City,101.0,Cancelled,0.0,1,Monday,23,Night
+1403,City,101.0,Cancelled,0.0,1,Tuesday,2,Late Night
+2459,Airport,101.0,Cancelled,0.0,1,Tuesday,20,Night
+1733,City,102.0,Cancelled,0.0,1,Tuesday,8,Morning
+1937,Airport,102.0,Cancelled,0.0,1,Tuesday,11,Morning
+334,City,103.0,Cancelled,0.0,1,Monday,7,Early Morning
+1107,City,103.0,Cancelled,0.0,1,Monday,20,Night
+427,City,104.0,Cancelled,0.0,1,Monday,8,Morning
+852,Airport,104.0,Cancelled,0.0,1,Monday,17,Evening
+1931,City,104.0,Cancelled,0.0,1,Tuesday,11,Morning
+308,City,105.0,Cancelled,0.0,1,Monday,7,Early Morning
+212,City,106.0,Cancelled,0.0,1,Monday,6,Early Morning
+252,City,107.0,Cancelled,0.0,1,Monday,6,Early Morning
+391,City,107.0,Cancelled,0.0,1,Monday,8,Morning
+412,City,107.0,Cancelled,0.0,1,Monday,8,Morning
+381,City,108.0,Cancelled,0.0,1,Monday,8,Morning
+1864,City,109.0,Cancelled,0.0,1,Tuesday,9,Morning
+2073,City,109.0,Cancelled,0.0,1,Tuesday,15,Afternoon
+326,City,110.0,Cancelled,0.0,1,Monday,7,Early Morning
+1401,City,110.0,Cancelled,0.0,1,Tuesday,2,Late Night
+149,City,111.0,Cancelled,0.0,1,Monday,5,Early Morning
+368,City,111.0,Cancelled,0.0,1,Monday,8,Morning
+1927,City,111.0,Cancelled,0.0,1,Tuesday,11,Morning
+2068,Airport,112.0,Cancelled,0.0,1,Tuesday,15,Afternoon
+2396,Airport,112.0,Cancelled,0.0,1,Tuesday,19,Evening
+2117,City,113.0,Cancelled,0.0,1,Tuesday,16,Evening
+188,City,114.0,Cancelled,0.0,1,Monday,5,Early Morning
+1699,City,114.0,Cancelled,0.0,1,Tuesday,8,Morning
+354,City,116.0,Cancelled,0.0,1,Monday,7,Early Morning
+1618,City,116.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1660,City,118.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+174,Airport,119.0,Cancelled,0.0,1,Monday,5,Early Morning
+321,City,119.0,Cancelled,0.0,1,Monday,7,Early Morning
+404,City,120.0,Cancelled,0.0,1,Monday,8,Morning
+2474,Airport,120.0,Cancelled,0.0,1,Tuesday,20,Night
+437,City,123.0,Cancelled,0.0,1,Monday,8,Morning
+122,City,124.0,Cancelled,0.0,1,Monday,5,Early Morning
+848,Airport,126.0,Cancelled,0.0,1,Monday,17,Evening
+1674,City,126.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+549,City,128.0,Cancelled,0.0,1,Monday,10,Morning
+1776,Airport,128.0,Cancelled,0.0,1,Tuesday,9,Morning
+492,City,129.0,Cancelled,0.0,1,Monday,9,Morning
+963,Airport,129.0,Cancelled,0.0,1,Monday,18,Evening
+1505,City,129.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+253,City,130.0,Cancelled,0.0,1,Monday,6,Early Morning
+379,City,130.0,Cancelled,0.0,1,Monday,8,Morning
+463,City,130.0,Cancelled,0.0,1,Monday,9,Morning
+1848,City,130.0,Cancelled,0.0,1,Tuesday,9,Morning
+229,City,131.0,Cancelled,0.0,1,Monday,6,Early Morning
+1683,City,131.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1728,City,131.0,Cancelled,0.0,1,Tuesday,8,Morning
+1777,City,131.0,Cancelled,0.0,1,Tuesday,8,Morning
+1868,City,131.0,Cancelled,0.0,1,Tuesday,9,Morning
+1738,City,132.0,Cancelled,0.0,1,Tuesday,8,Morning
+1114,Airport,134.0,Cancelled,0.0,1,Monday,20,Night
+1742,City,135.0,Cancelled,0.0,1,Tuesday,8,Morning
+1979,Airport,135.0,Cancelled,0.0,1,Tuesday,12,Afternoon
+1555,Airport,136.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2672,City,136.0,Cancelled,0.0,1,Tuesday,23,Night
+164,City,137.0,Cancelled,0.0,1,Monday,5,Early Morning
+466,City,138.0,Cancelled,0.0,1,Monday,9,Morning
+1678,City,138.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1801,City,138.0,Cancelled,0.0,1,Tuesday,9,Morning
+1819,City,138.0,Cancelled,0.0,1,Tuesday,9,Morning
+1697,City,139.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1853,City,139.0,Cancelled,0.0,1,Tuesday,9,Morning
+1955,Airport,140.0,Cancelled,0.0,1,Tuesday,11,Morning
+1795,City,141.0,Cancelled,0.0,1,Tuesday,9,Morning
+2049,Airport,141.0,Cancelled,0.0,1,Tuesday,14,Afternoon
+556,City,142.0,Cancelled,0.0,1,Monday,10,Morning
+1854,City,142.0,Cancelled,0.0,1,Tuesday,9,Morning
+1897,City,142.0,Cancelled,0.0,1,Tuesday,10,Morning
+2537,City,142.0,Cancelled,0.0,1,Tuesday,21,Night
+1982,City,143.0,Cancelled,0.0,1,Tuesday,12,Afternoon
+85,City,144.0,Cancelled,0.0,1,Monday,4,Early Morning
+459,City,144.0,Cancelled,0.0,1,Monday,9,Morning
+1507,City,144.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+317,City,145.0,Cancelled,0.0,1,Monday,7,Early Morning
+1267,City,146.0,Cancelled,0.0,1,Monday,22,Night
+2026,Airport,146.0,Cancelled,0.0,1,Tuesday,14,Afternoon
+2150,City,146.0,Cancelled,0.0,1,Tuesday,17,Evening
+2389,City,146.0,Cancelled,0.0,1,Tuesday,19,Evening
+954,Airport,147.0,Cancelled,0.0,1,Monday,18,Evening
+774,Airport,148.0,Cancelled,0.0,1,Monday,16,Evening
+1561,City,149.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1888,City,149.0,Cancelled,0.0,1,Tuesday,10,Morning
+1116,Airport,150.0,Cancelled,0.0,1,Monday,20,Night
+227,Airport,151.0,Cancelled,0.0,1,Monday,6,Early Morning
+1434,City,151.0,Cancelled,0.0,1,Tuesday,4,Early Morning
+358,City,153.0,Cancelled,0.0,1,Monday,8,Morning
+865,Airport,153.0,Cancelled,0.0,1,Monday,17,Evening
+1202,Airport,154.0,Cancelled,0.0,1,Monday,21,Night
+1172,Airport,155.0,Cancelled,0.0,1,Monday,20,Night
+1245,Airport,156.0,Cancelled,0.0,1,Monday,21,Night
+1544,City,157.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+76,City,158.0,Cancelled,0.0,1,Monday,4,Early Morning
+366,City,158.0,Cancelled,0.0,1,Monday,8,Morning
+371,City,158.0,Cancelled,0.0,1,Monday,8,Morning
+181,City,159.0,Cancelled,0.0,1,Monday,5,Early Morning
+1503,City,159.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1863,City,159.0,Cancelled,0.0,1,Tuesday,9,Morning
+175,City,160.0,Cancelled,0.0,1,Monday,5,Early Morning
+1749,City,160.0,Cancelled,0.0,1,Tuesday,8,Morning
+319,City,161.0,Cancelled,0.0,1,Monday,7,Early Morning
+439,City,161.0,Cancelled,0.0,1,Monday,8,Morning
+736,City,163.0,Cancelled,0.0,1,Monday,15,Afternoon
+929,Airport,163.0,Cancelled,0.0,1,Monday,18,Evening
+1793,City,163.0,Cancelled,0.0,1,Tuesday,9,Morning
+345,City,164.0,Cancelled,0.0,1,Monday,7,Early Morning
+1051,Airport,164.0,Cancelled,0.0,1,Monday,19,Evening
+261,City,165.0,Cancelled,0.0,1,Monday,6,Early Morning
+525,City,165.0,Cancelled,0.0,1,Monday,9,Morning
+1500,City,165.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1640,City,165.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1190,Airport,166.0,Cancelled,0.0,1,Monday,21,Night
+1549,City,166.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1623,City,167.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2061,City,167.0,Cancelled,0.0,1,Tuesday,15,Afternoon
+240,City,168.0,Cancelled,0.0,1,Monday,6,Early Morning
+1011,Airport,168.0,Cancelled,0.0,1,Monday,19,Evening
+1755,City,168.0,Cancelled,0.0,1,Tuesday,8,Morning
+1893,City,168.0,Cancelled,0.0,1,Tuesday,10,Morning
+177,City,169.0,Cancelled,0.0,1,Monday,5,Early Morning
+1162,Airport,169.0,Cancelled,0.0,1,Monday,20,Night
+1456,City,169.0,Cancelled,0.0,1,Tuesday,4,Early Morning
+1472,City,169.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+903,City,170.0,Cancelled,0.0,1,Monday,18,Evening
+1969,Airport,170.0,Cancelled,0.0,1,Tuesday,12,Afternoon
+77,City,171.0,Cancelled,0.0,1,Monday,4,Early Morning
+1828,City,172.0,Cancelled,0.0,1,Tuesday,9,Morning
+127,City,173.0,Cancelled,0.0,1,Monday,5,Early Morning
+86,City,174.0,Cancelled,0.0,1,Monday,4,Early Morning
+550,City,174.0,Cancelled,0.0,1,Monday,10,Morning
+2275,City,175.0,Cancelled,0.0,1,Tuesday,18,Evening
+293,City,176.0,Cancelled,0.0,1,Monday,7,Early Morning
+355,City,176.0,Cancelled,0.0,1,Monday,7,Early Morning
+683,Airport,176.0,Cancelled,0.0,1,Monday,13,Afternoon
+1490,City,176.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1796,City,176.0,Cancelled,0.0,1,Tuesday,9,Morning
+433,City,177.0,Cancelled,0.0,1,Monday,8,Morning
+1607,City,177.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2466,Airport,178.0,Cancelled,0.0,1,Tuesday,20,Night
+1650,City,180.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+2119,City,181.0,Cancelled,0.0,1,Tuesday,16,Evening
+105,City,182.0,Cancelled,0.0,1,Monday,4,Early Morning
+1747,City,182.0,Cancelled,0.0,1,Tuesday,8,Morning
+217,City,183.0,Cancelled,0.0,1,Monday,6,Early Morning
+113,City,185.0,Cancelled,0.0,1,Monday,5,Early Morning
+1558,City,185.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+2180,Airport,185.0,Cancelled,0.0,1,Tuesday,17,Evening
+378,City,186.0,Cancelled,0.0,1,Monday,8,Morning
+790,Airport,186.0,Cancelled,0.0,1,Monday,16,Evening
+1700,City,186.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+480,City,187.0,Cancelled,0.0,1,Monday,9,Morning
+1632,City,187.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+129,City,189.0,Cancelled,0.0,1,Monday,5,Early Morning
+1569,City,190.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1820,City,190.0,Cancelled,0.0,1,Tuesday,9,Morning
+1840,City,190.0,Cancelled,0.0,1,Tuesday,9,Morning
+224,City,191.0,Cancelled,0.0,1,Monday,6,Early Morning
+1833,City,192.0,Cancelled,0.0,1,Tuesday,9,Morning
+265,City,193.0,Cancelled,0.0,1,Monday,6,Early Morning
+833,Airport,193.0,Cancelled,0.0,1,Monday,17,Evening
+684,City,194.0,Cancelled,0.0,1,Monday,13,Afternoon
+718,City,194.0,Cancelled,0.0,1,Monday,14,Afternoon
+290,City,195.0,Cancelled,0.0,1,Monday,7,Early Morning
+1030,Airport,195.0,Cancelled,0.0,1,Monday,19,Evening
+526,City,197.0,Cancelled,0.0,1,Monday,9,Morning
+1887,City,197.0,Cancelled,0.0,1,Tuesday,10,Morning
+277,City,198.0,Cancelled,0.0,1,Monday,6,Early Morning
+2148,City,198.0,Cancelled,0.0,1,Tuesday,17,Evening
+546,City,199.0,Cancelled,0.0,1,Monday,10,Morning
+1115,Airport,199.0,Cancelled,0.0,1,Monday,20,Night
+383,City,200.0,Cancelled,0.0,1,Monday,8,Morning
+749,Airport,200.0,Cancelled,0.0,1,Monday,15,Afternoon
+18,City,201.0,Cancelled,0.0,1,Monday,1,Late Night
+2125,Airport,201.0,Cancelled,0.0,1,Tuesday,16,Evening
+192,City,202.0,Cancelled,0.0,1,Monday,5,Early Morning
+1469,City,202.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1486,City,202.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1739,City,203.0,Cancelled,0.0,1,Tuesday,8,Morning
+119,City,204.0,Cancelled,0.0,1,Monday,5,Early Morning
+641,City,204.0,Cancelled,0.0,1,Monday,12,Afternoon
+98,City,205.0,Cancelled,0.0,1,Monday,4,Early Morning
+1541,City,205.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+130,City,206.0,Cancelled,0.0,1,Monday,5,Early Morning
+268,City,206.0,Cancelled,0.0,1,Monday,6,Early Morning
+644,Airport,206.0,Cancelled,0.0,1,Monday,12,Afternoon
+1572,City,206.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1619,City,206.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1668,City,206.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1707,City,206.0,Cancelled,0.0,1,Tuesday,8,Morning
+2113,Airport,206.0,Cancelled,0.0,1,Tuesday,16,Evening
+302,City,209.0,Cancelled,0.0,1,Monday,7,Early Morning
+1137,City,209.0,Cancelled,0.0,1,Monday,20,Night
+1702,City,210.0,Cancelled,0.0,1,Tuesday,8,Morning
+1762,City,210.0,Cancelled,0.0,1,Tuesday,8,Morning
+2373,Airport,210.0,Cancelled,0.0,1,Tuesday,19,Evening
+244,City,211.0,Cancelled,0.0,1,Monday,6,Early Morning
+1216,Airport,211.0,Cancelled,0.0,1,Monday,21,Night
+393,City,212.0,Cancelled,0.0,1,Monday,8,Morning
+419,City,212.0,Cancelled,0.0,1,Monday,8,Morning
+193,City,213.0,Cancelled,0.0,1,Monday,5,Early Morning
+1825,City,213.0,Cancelled,0.0,1,Tuesday,9,Morning
+107,City,215.0,Cancelled,0.0,1,Monday,5,Early Morning
+1594,City,215.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1791,City,215.0,Cancelled,0.0,1,Tuesday,9,Morning
+409,City,216.0,Cancelled,0.0,1,Monday,8,Morning
+711,City,218.0,Cancelled,0.0,1,Monday,14,Afternoon
+262,City,220.0,Cancelled,0.0,1,Monday,6,Early Morning
+529,City,220.0,Cancelled,0.0,1,Monday,9,Morning
+1537,City,220.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1788,City,220.0,Cancelled,0.0,1,Tuesday,9,Morning
+1730,City,222.0,Cancelled,0.0,1,Tuesday,8,Morning
+2448,Airport,222.0,Cancelled,0.0,1,Tuesday,20,Night
+1506,City,223.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+2651,City,223.0,Cancelled,0.0,1,Tuesday,22,Night
+291,City,224.0,Cancelled,0.0,1,Monday,7,Early Morning
+1669,City,224.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+157,City,226.0,Cancelled,0.0,1,Monday,5,Early Morning
+1837,City,227.0,Cancelled,0.0,1,Tuesday,9,Morning
+1509,City,228.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1365,City,229.0,Cancelled,0.0,1,Monday,0,Late Night
+1834,City,229.0,Cancelled,0.0,1,Tuesday,9,Morning
+623,Airport,230.0,Cancelled,0.0,1,Monday,12,Afternoon
+1521,City,230.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+2435,City,231.0,Cancelled,0.0,1,Tuesday,20,Night
+399,City,232.0,Cancelled,0.0,1,Monday,8,Morning
+1156,City,233.0,Cancelled,0.0,1,Monday,20,Night
+552,City,234.0,Cancelled,0.0,1,Monday,10,Morning
+589,Airport,234.0,Cancelled,0.0,1,Monday,11,Morning
+1117,Airport,235.0,Cancelled,0.0,1,Monday,20,Night
+185,City,236.0,Cancelled,0.0,1,Monday,5,Early Morning
+1846,City,237.0,Cancelled,0.0,1,Tuesday,9,Morning
+298,City,238.0,Cancelled,0.0,1,Monday,7,Early Morning
+508,City,239.0,Cancelled,0.0,1,Monday,9,Morning
+1419,City,239.0,Cancelled,0.0,1,Tuesday,3,Late Night
+309,City,240.0,Cancelled,0.0,1,Monday,7,Early Morning
+327,City,240.0,Cancelled,0.0,1,Monday,7,Early Morning
+1491,City,240.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+414,City,242.0,Cancelled,0.0,1,Monday,8,Morning
+1621,City,242.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1778,City,243.0,Cancelled,0.0,1,Tuesday,9,Morning
+115,City,244.0,Cancelled,0.0,1,Monday,5,Early Morning
+1784,City,245.0,Cancelled,0.0,1,Tuesday,9,Morning
+431,City,246.0,Cancelled,0.0,1,Monday,8,Morning
+1599,City,246.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1725,City,246.0,Cancelled,0.0,1,Tuesday,8,Morning
+133,City,247.0,Cancelled,0.0,1,Monday,5,Early Morning
+108,City,248.0,Cancelled,0.0,1,Monday,5,Early Morning
+1798,City,248.0,Cancelled,0.0,1,Tuesday,9,Morning
+1932,City,248.0,Cancelled,0.0,1,Tuesday,11,Morning
+363,City,249.0,Cancelled,0.0,1,Monday,8,Morning
+1866,City,250.0,Cancelled,0.0,1,Tuesday,9,Morning
+415,Airport,251.0,Cancelled,0.0,1,Monday,8,Morning
+490,City,252.0,Cancelled,0.0,1,Monday,9,Morning
+464,City,253.0,Cancelled,0.0,1,Monday,9,Morning
+725,Airport,253.0,Cancelled,0.0,1,Monday,15,Afternoon
+2418,Airport,254.0,Cancelled,0.0,1,Tuesday,20,Night
+780,Airport,255.0,Cancelled,0.0,1,Monday,16,Evening
+1601,City,255.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1831,Airport,255.0,Cancelled,0.0,1,Tuesday,9,Morning
+471,City,258.0,Cancelled,0.0,1,Monday,9,Morning
+332,City,259.0,Cancelled,0.0,1,Monday,7,Early Morning
+1734,City,259.0,Cancelled,0.0,1,Tuesday,8,Morning
+1703,City,260.0,Cancelled,0.0,1,Tuesday,8,Morning
+1591,City,261.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1876,City,261.0,Cancelled,0.0,1,Tuesday,10,Morning
+743,City,263.0,Cancelled,0.0,1,Monday,15,Afternoon
+485,City,264.0,Cancelled,0.0,1,Monday,9,Morning
+647,City,264.0,Cancelled,0.0,1,Monday,12,Afternoon
+1858,City,264.0,Cancelled,0.0,1,Tuesday,9,Morning
+553,City,266.0,Cancelled,0.0,1,Monday,10,Morning
+676,City,266.0,Cancelled,0.0,1,Monday,13,Afternoon
+1516,City,266.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1763,City,266.0,Cancelled,0.0,1,Tuesday,8,Morning
+147,City,267.0,Cancelled,0.0,1,Monday,5,Early Morning
+120,City,268.0,Cancelled,0.0,1,Monday,5,Early Morning
+1560,City,268.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+166,City,269.0,Cancelled,0.0,1,Monday,5,Early Morning
+1655,Airport,269.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1670,City,269.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1545,Airport,270.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+417,City,271.0,Cancelled,0.0,1,Monday,8,Morning
+1437,City,271.0,Cancelled,0.0,1,Tuesday,4,Early Morning
+305,City,272.0,Cancelled,0.0,1,Monday,7,Early Morning
+1511,City,272.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+346,City,273.0,Cancelled,0.0,1,Monday,7,Early Morning
+1684,City,274.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+2222,City,275.0,Cancelled,0.0,1,Tuesday,18,Evening
+2237,City,275.0,Cancelled,0.0,1,Tuesday,18,Evening
+395,City,276.0,Cancelled,0.0,1,Monday,8,Morning
+495,City,276.0,Cancelled,0.0,1,Monday,9,Morning
+1228,City,276.0,Cancelled,0.0,1,Monday,21,Night
+1481,City,277.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+1616,City,277.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1627,City,277.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1726,City,277.0,Cancelled,0.0,1,Tuesday,8,Morning
+294,City,278.0,Cancelled,0.0,1,Monday,7,Early Morning
+315,City,278.0,Cancelled,0.0,1,Monday,7,Early Morning
+1718,City,278.0,Cancelled,0.0,1,Tuesday,8,Morning
+2122,City,278.0,Cancelled,0.0,1,Tuesday,16,Evening
+2387,City,278.0,Cancelled,0.0,1,Tuesday,19,Evening
+140,City,279.0,Cancelled,0.0,1,Monday,5,Early Morning
+505,City,279.0,Cancelled,0.0,1,Monday,9,Morning
+1877,City,280.0,Cancelled,0.0,1,Tuesday,10,Morning
+1233,Airport,282.0,Cancelled,0.0,1,Monday,21,Night
+1883,City,282.0,Cancelled,0.0,1,Tuesday,10,Morning
+219,City,283.0,Cancelled,0.0,1,Monday,6,Early Morning
+493,City,283.0,Cancelled,0.0,1,Monday,9,Morning
+1575,City,283.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+109,City,284.0,Cancelled,0.0,1,Monday,5,Early Morning
+299,City,284.0,Cancelled,0.0,1,Monday,7,Early Morning
+347,City,284.0,Cancelled,0.0,1,Monday,7,Early Morning
+538,City,284.0,Cancelled,0.0,1,Monday,10,Morning
+441,City,286.0,Cancelled,0.0,1,Monday,9,Morning
+1109,City,286.0,Cancelled,0.0,1,Monday,20,Night
+1693,Airport,286.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1630,City,287.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+186,City,288.0,Cancelled,0.0,1,Monday,5,Early Morning
+2094,Airport,288.0,Cancelled,0.0,1,Tuesday,15,Afternoon
+340,City,289.0,Cancelled,0.0,1,Monday,7,Early Morning
+151,City,290.0,Cancelled,0.0,1,Monday,5,Early Morning
+316,City,290.0,Cancelled,0.0,1,Monday,7,Early Morning
+561,City,290.0,Cancelled,0.0,1,Monday,10,Morning
+1582,City,290.0,Cancelled,0.0,1,Tuesday,6,Early Morning
+1871,City,290.0,Cancelled,0.0,1,Tuesday,10,Morning
+144,City,291.0,Cancelled,0.0,1,Monday,5,Early Morning
+1383,City,291.0,Cancelled,0.0,1,Tuesday,1,Late Night
+184,City,292.0,Cancelled,0.0,1,Monday,5,Early Morning
+407,City,294.0,Cancelled,0.0,1,Monday,8,Morning
+486,City,294.0,Cancelled,0.0,1,Monday,9,Morning
+1251,City,295.0,Cancelled,0.0,1,Monday,21,Night
+295,Airport,297.0,Cancelled,0.0,1,Monday,7,Early Morning
+1487,City,297.0,Cancelled,0.0,1,Tuesday,5,Early Morning
+284,City,298.0,Cancelled,0.0,1,Monday,7,Early Morning
+758,City,299.0,Cancelled,0.0,1,Monday,16,Evening
+1641,City,299.0,Cancelled,0.0,1,Tuesday,7,Early Morning
+1362,City,nan,No Cars Available,0.0,1,Monday,0,Late Night
+1364,City,nan,No Cars Available,0.0,1,Monday,0,Late Night
+1366,City,nan,No Cars Available,0.0,1,Monday,0,Late Night
+2,Airport,nan,No Cars Available,0.0,1,Monday,0,Late Night
+7,Airport,nan,No Cars Available,0.0,1,Monday,0,Late Night
+6,City,nan,No Cars Available,0.0,1,Monday,0,Late Night
+4,City,nan,No Cars Available,0.0,1,Monday,0,Late Night
+8,City,nan,No Cars Available,0.0,1,Monday,0,Late Night
+12,City,nan,No Cars Available,0.0,1,Monday,1,Late Night
+16,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+14,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+19,City,nan,No Cars Available,0.0,1,Monday,1,Late Night
+15,City,nan,No Cars Available,0.0,1,Monday,1,Late Night
+17,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+20,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+23,City,nan,No Cars Available,0.0,1,Monday,1,Late Night
+22,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+25,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+24,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+27,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+26,Airport,nan,No Cars Available,0.0,1,Monday,1,Late Night
+29,City,nan,No Cars Available,0.0,1,Monday,1,Late Night
+28,City,nan,No Cars Available,0.0,1,Monday,2,Late Night
+31,City,nan,No Cars Available,0.0,1,Monday,2,Late Night
+32,Airport,nan,No Cars Available,0.0,1,Monday,2,Late Night
+36,City,nan,No Cars Available,0.0,1,Monday,2,Late Night
+37,Airport,nan,No Cars Available,0.0,1,Monday,2,Late Night
+38,City,nan,No Cars Available,0.0,1,Monday,2,Late Night
+40,Airport,nan,No Cars Available,0.0,1,Monday,2,Late Night
+39,Airport,nan,No Cars Available,0.0,1,Monday,2,Late Night
+42,Airport,nan,No Cars Available,0.0,1,Monday,2,Late Night
+43,City,nan,No Cars Available,0.0,1,Monday,3,Late Night
+44,Airport,nan,No Cars Available,0.0,1,Monday,3,Late Night
+46,Airport,nan,No Cars Available,0.0,1,Monday,3,Late Night
+49,Airport,nan,No Cars Available,0.0,1,Monday,3,Late Night
+52,City,nan,No Cars Available,0.0,1,Monday,3,Late Night
+54,City,nan,No Cars Available,0.0,1,Monday,3,Late Night
+55,Airport,nan,No Cars Available,0.0,1,Monday,3,Late Night
+57,City,nan,No Cars Available,0.0,1,Monday,3,Late Night
+59,City,nan,No Cars Available,0.0,1,Monday,3,Late Night
+56,City,nan,No Cars Available,0.0,1,Monday,3,Late Night
+58,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+61,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+62,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+63,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+65,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+67,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+69,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+68,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+72,City,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+73,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+71,City,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+75,Airport,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+79,City,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+83,City,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+78,City,nan,No Cars Available,0.0,1,Monday,4,Early Morning
+104,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+103,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+131,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+124,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+117,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+137,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+136,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+135,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+138,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+154,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+153,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+171,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+167,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+159,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+178,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+179,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+190,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+189,City,nan,No Cars Available,0.0,1,Monday,5,Early Morning
+208,Airport,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+194,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+207,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+199,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+203,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+221,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+226,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+228,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+231,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+230,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+254,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+263,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+255,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+259,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+266,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+274,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+272,City,nan,No Cars Available,0.0,1,Monday,6,Early Morning
+287,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+288,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+300,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+331,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+337,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+342,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+349,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+344,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+348,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+359,City,nan,No Cars Available,0.0,1,Monday,7,Early Morning
+367,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+356,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+369,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+364,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+372,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+365,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+390,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+388,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+385,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+396,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+413,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+408,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+416,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+435,City,nan,No Cars Available,0.0,1,Monday,8,Morning
+440,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+434,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+456,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+453,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+442,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+478,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+452,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+460,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+473,Airport,nan,No Cars Available,0.0,1,Monday,9,Morning
+472,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+496,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+487,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+498,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+503,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+502,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+509,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+506,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+522,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+516,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+524,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+527,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+530,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+539,City,nan,No Cars Available,0.0,1,Monday,9,Morning
+541,City,nan,No Cars Available,0.0,1,Monday,10,Morning
+548,City,nan,No Cars Available,0.0,1,Monday,10,Morning
+563,Airport,nan,No Cars Available,0.0,1,Monday,10,Morning
+562,Airport,nan,No Cars Available,0.0,1,Monday,10,Morning
+566,City,nan,No Cars Available,0.0,1,Monday,10,Morning
+567,Airport,nan,No Cars Available,0.0,1,Monday,10,Morning
+576,City,nan,No Cars Available,0.0,1,Monday,10,Morning
+581,Airport,nan,No Cars Available,0.0,1,Monday,11,Morning
+587,City,nan,No Cars Available,0.0,1,Monday,11,Morning
+593,City,nan,No Cars Available,0.0,1,Monday,11,Morning
+594,Airport,nan,No Cars Available,0.0,1,Monday,11,Morning
+601,City,nan,No Cars Available,0.0,1,Monday,11,Morning
+606,City,nan,No Cars Available,0.0,1,Monday,11,Morning
+611,Airport,nan,No Cars Available,0.0,1,Monday,11,Morning
+613,City,nan,No Cars Available,0.0,1,Monday,11,Morning
+617,Airport,nan,No Cars Available,0.0,1,Monday,11,Morning
+624,City,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+633,City,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+646,Airport,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+654,Airport,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+655,City,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+658,City,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+659,City,nan,No Cars Available,0.0,1,Monday,12,Afternoon
+667,City,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+665,Airport,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+668,City,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+674,City,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+670,Airport,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+673,Airport,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+678,Airport,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+690,Airport,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+685,City,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+691,City,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+695,City,nan,No Cars Available,0.0,1,Monday,13,Afternoon
+696,City,nan,No Cars Available,0.0,1,Monday,14,Afternoon
+705,Airport,nan,No Cars Available,0.0,1,Monday,14,Afternoon
+713,City,nan,No Cars Available,0.0,1,Monday,14,Afternoon
+716,City,nan,No Cars Available,0.0,1,Monday,14,Afternoon
+722,Airport,nan,No Cars Available,0.0,1,Monday,14,Afternoon
+731,City,nan,No Cars Available,0.0,1,Monday,15,Afternoon
+730,Airport,nan,No Cars Available,0.0,1,Monday,15,Afternoon
+734,City,nan,No Cars Available,0.0,1,Monday,15,Afternoon
+755,Airport,nan,No Cars Available,0.0,1,Monday,16,Evening
+762,City,nan,No Cars Available,0.0,1,Monday,16,Evening
+765,Airport,nan,No Cars Available,0.0,1,Monday,16,Evening
+764,City,nan,No Cars Available,0.0,1,Monday,16,Evening
+767,City,nan,No Cars Available,0.0,1,Monday,16,Evening
+768,Airport,nan,No Cars Available,0.0,1,Monday,16,Evening
+770,Airport,nan,No Cars Available,0.0,1,Monday,16,Evening
+776,City,nan,No Cars Available,0.0,1,Monday,16,Evening
+783,City,nan,No Cars Available,0.0,1,Monday,16,Evening
+787,Airport,nan,No Cars Available,0.0,1,Monday,16,Evening
+786,Airport,nan,No Cars Available,0.0,1,Monday,16,Evening
+795,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+796,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+803,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+802,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+806,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+798,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+804,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+808,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+810,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+807,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+814,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+820,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+811,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+813,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+809,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+816,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+815,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+812,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+823,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+818,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+822,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+830,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+824,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+827,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+829,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+825,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+841,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+836,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+842,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+837,City,nan,No Cars Available,0.0,1,Monday,17,Evening
+835,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+839,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+849,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+854,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+851,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+850,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+862,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+861,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+858,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+875,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+873,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+869,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+868,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+864,Airport,nan,No Cars Available,0.0,1,Monday,17,Evening
+866,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+880,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+877,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+879,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+874,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+881,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+886,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+894,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+890,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+883,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+888,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+885,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+895,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+882,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+889,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+893,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+896,City,nan,No Cars Available,0.0,1,Monday,18,Evening
+892,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+906,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+897,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+902,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+901,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+922,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+905,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+908,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+915,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+920,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+911,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+916,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+907,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+925,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+935,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+912,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+921,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+931,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+917,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+937,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+934,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+933,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+924,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+942,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+938,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+940,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+953,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+941,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+946,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+950,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+948,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+945,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+955,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+956,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+949,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+958,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+957,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+959,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+961,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+964,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+966,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+970,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+968,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+971,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+965,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+962,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+973,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+969,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+989,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+974,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+983,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+985,City,nan,No Cars Available,0.0,1,Monday,18,Evening
+987,Airport,nan,No Cars Available,0.0,1,Monday,18,Evening
+979,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+982,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+977,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+986,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+991,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+978,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+984,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+994,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+988,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1000,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+990,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1001,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+997,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+996,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1009,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1004,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1003,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1016,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1013,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1029,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1017,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1028,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1018,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1023,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1025,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1026,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1021,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1019,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1022,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1031,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1032,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1035,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1033,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1037,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1042,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1036,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1041,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1043,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1038,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1047,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1045,City,nan,No Cars Available,0.0,1,Monday,19,Evening
+1049,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1048,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1054,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1061,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1053,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1055,City,nan,No Cars Available,0.0,1,Monday,19,Evening
+1058,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1063,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1062,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1067,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1072,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1069,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1073,Airport,nan,No Cars Available,0.0,1,Monday,19,Evening
+1074,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1079,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1075,City,nan,No Cars Available,0.0,1,Monday,20,Night
+1078,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1076,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1090,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1083,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1089,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1091,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1088,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1093,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1082,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1081,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1102,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1087,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1106,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1096,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1095,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1103,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1092,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1099,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1105,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1111,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1121,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1124,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1118,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1132,City,nan,No Cars Available,0.0,1,Monday,20,Night
+1126,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1120,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1122,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1125,City,nan,No Cars Available,0.0,1,Monday,20,Night
+1127,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1128,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1140,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1139,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1131,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1143,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1141,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1145,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1153,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1146,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1144,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1149,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1158,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1148,City,nan,No Cars Available,0.0,1,Monday,20,Night
+1159,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1150,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1155,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1160,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1157,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1161,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1154,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1168,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1165,City,nan,No Cars Available,0.0,1,Monday,20,Night
+1166,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1169,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1173,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1174,Airport,nan,No Cars Available,0.0,1,Monday,20,Night
+1182,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1176,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1177,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1185,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1189,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1191,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1188,City,nan,No Cars Available,0.0,1,Monday,21,Night
+1192,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1195,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1194,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1198,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1193,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1204,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1201,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1205,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1211,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1213,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1219,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1218,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1208,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1220,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1212,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1223,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1222,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1209,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1239,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1221,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1229,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1242,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1237,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1225,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1224,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1243,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1232,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1236,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1226,City,nan,No Cars Available,0.0,1,Monday,21,Night
+1230,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1240,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1235,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1248,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1234,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1246,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1249,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1250,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1255,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1257,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1256,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1259,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1253,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1269,Airport,nan,No Cars Available,0.0,1,Monday,21,Night
+1270,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1261,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1263,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1265,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1276,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1268,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1264,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1282,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1280,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1284,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1288,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1287,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1292,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1291,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1298,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1302,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1305,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1304,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1311,City,nan,No Cars Available,0.0,1,Monday,22,Night
+1313,Airport,nan,No Cars Available,0.0,1,Monday,22,Night
+1323,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1322,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1328,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1327,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1331,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1332,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1334,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1335,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1337,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1342,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1348,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1347,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1355,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1352,Airport,nan,No Cars Available,0.0,1,Monday,23,Night
+1357,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1358,City,nan,No Cars Available,0.0,1,Monday,23,Night
+1361,City,nan,No Cars Available,0.0,1,Monday,23,Night
+2682,Airport,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+2680,City,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1370,Airport,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1372,City,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1373,City,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1375,City,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1374,Airport,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1376,Airport,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1379,Airport,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1378,Airport,nan,No Cars Available,0.0,1,Tuesday,0,Late Night
+1385,Airport,nan,No Cars Available,0.0,1,Tuesday,1,Late Night
+1388,City,nan,No Cars Available,0.0,1,Tuesday,1,Late Night
+1389,Airport,nan,No Cars Available,0.0,1,Tuesday,1,Late Night
+1390,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1392,City,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1393,City,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1391,City,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1394,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1395,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1396,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1397,City,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1398,City,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1400,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1404,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1405,Airport,nan,No Cars Available,0.0,1,Tuesday,2,Late Night
+1409,Airport,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1407,Airport,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1411,City,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1412,Airport,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1415,Airport,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1416,City,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1413,City,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1418,Airport,nan,No Cars Available,0.0,1,Tuesday,3,Late Night
+1420,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1421,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1423,Airport,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1427,Airport,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1424,Airport,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1428,Airport,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1431,Airport,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1432,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1430,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1440,Airport,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1438,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1433,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1448,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1441,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1443,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1460,City,nan,No Cars Available,0.0,1,Tuesday,4,Early Morning
+1463,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1466,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1470,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1473,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1482,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1494,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1512,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1523,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1522,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1530,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1542,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1535,City,nan,No Cars Available,0.0,1,Tuesday,5,Early Morning
+1546,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1552,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1538,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1547,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1556,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1579,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1570,Airport,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1580,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1586,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1583,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1593,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1590,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1605,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1602,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1609,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1610,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1608,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1622,City,nan,No Cars Available,0.0,1,Tuesday,6,Early Morning
+1631,City,nan,No Cars Available,0.0,1,Tuesday,7,Early Morning
+1624,Airport,nan,No Cars Available,0.0,1,Tuesday,7,Early Morning
+1639,City,nan,No Cars Available,0.0,1,Tuesday,7,Early Morning
+1646,City,nan,No Cars Available,0.0,1,Tuesday,7,Early Morning
+1673,City,nan,No Cars Available,0.0,1,Tuesday,7,Early Morning
+1685,City,nan,No Cars Available,0.0,1,Tuesday,7,Early Morning
+1717,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1716,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1710,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1711,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1715,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1719,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1720,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1727,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1729,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1731,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1736,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1746,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1737,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1740,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1752,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1753,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1750,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1760,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1761,Airport,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1765,Airport,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1768,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1764,City,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1779,Airport,nan,No Cars Available,0.0,1,Tuesday,8,Morning
+1785,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1783,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1792,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1799,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1803,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1806,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1813,Airport,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1823,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1822,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1824,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1856,Airport,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1847,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1857,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1855,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1859,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1862,Airport,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1869,City,nan,No Cars Available,0.0,1,Tuesday,9,Morning
+1878,City,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1872,City,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1879,City,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1884,Airport,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1892,Airport,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1905,City,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1904,City,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1912,Airport,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1913,Airport,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1917,City,nan,No Cars Available,0.0,1,Tuesday,10,Morning
+1922,Airport,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1926,City,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1936,City,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1933,City,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1943,City,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1951,Airport,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1944,City,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1965,City,nan,No Cars Available,0.0,1,Tuesday,11,Morning
+1964,City,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1967,City,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1970,Airport,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1980,Airport,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1987,City,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1988,Airport,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1990,City,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1992,City,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+1998,City,nan,No Cars Available,0.0,1,Tuesday,12,Afternoon
+2002,City,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2004,Airport,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2006,Airport,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2005,Airport,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2012,Airport,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2015,City,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2021,Airport,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2023,Airport,nan,No Cars Available,0.0,1,Tuesday,13,Afternoon
+2027,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2028,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2036,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2038,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2054,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2051,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2056,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2059,City,nan,No Cars Available,0.0,1,Tuesday,14,Afternoon
+2058,Airport,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2063,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2066,Airport,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2071,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2072,Airport,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2081,Airport,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2080,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2091,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2092,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2093,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2090,City,nan,No Cars Available,0.0,1,Tuesday,15,Afternoon
+2100,City,nan,No Cars Available,0.0,1,Tuesday,16,Evening
+2115,City,nan,No Cars Available,0.0,1,Tuesday,16,Evening
+2121,City,nan,No Cars Available,0.0,1,Tuesday,16,Evening
+2127,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2132,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2128,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2140,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2142,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2133,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2138,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2139,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2141,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2149,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2145,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2153,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2144,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2137,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2151,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2155,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2159,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2154,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2158,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2156,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2164,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2161,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2157,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2170,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2175,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2174,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2176,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2171,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2178,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2183,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2172,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2177,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2184,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2186,City,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2189,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2185,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2188,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2196,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2190,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2191,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2193,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2199,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2194,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2201,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2204,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2198,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2202,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2205,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2212,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2213,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2215,Airport,nan,No Cars Available,0.0,1,Tuesday,17,Evening
+2219,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2214,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2216,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2217,City,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2210,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2218,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2228,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2229,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2226,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2224,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2221,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2230,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2225,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2231,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2220,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2232,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2239,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2233,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2243,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2241,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2238,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2242,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2255,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2244,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2247,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2245,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2258,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2260,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2254,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2250,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2263,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2261,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2246,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2257,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2271,City,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2265,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2264,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2251,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2269,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2278,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2273,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2281,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2272,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2280,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2287,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2284,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2286,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2283,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2289,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2288,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2291,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2302,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2290,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2296,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2299,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2301,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2293,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2298,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2303,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2300,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2297,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2315,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2312,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2309,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2304,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2314,Airport,nan,No Cars Available,0.0,1,Tuesday,18,Evening
+2308,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2317,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2313,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2306,City,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2316,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2321,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2318,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2319,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2320,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2324,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2322,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2329,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2325,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2344,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2334,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2330,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2337,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2326,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2341,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2332,City,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2338,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2333,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2336,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2342,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2343,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2351,City,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2345,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2350,City,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2352,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2361,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2364,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2355,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2357,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2366,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2367,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2358,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2362,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2371,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2369,City,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2380,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2377,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2384,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2374,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2379,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2376,City,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2378,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2388,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2383,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2385,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2391,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2386,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2394,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2402,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2390,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2401,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2400,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2403,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2414,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2393,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2398,Airport,nan,No Cars Available,0.0,1,Tuesday,19,Evening
+2408,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2415,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2421,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2419,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2409,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2428,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2426,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2422,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2427,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2425,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2429,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2431,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2439,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2433,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2450,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2440,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2442,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2443,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2446,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2455,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2453,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2452,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2454,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2451,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2438,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2462,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2468,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2456,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2471,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2464,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2477,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2472,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2470,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2476,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2475,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2478,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2493,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2488,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2495,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2485,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2489,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2479,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2487,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2492,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2500,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2504,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2503,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2490,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2502,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2494,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2501,Airport,nan,No Cars Available,0.0,1,Tuesday,20,Night
+2498,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2512,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2514,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2519,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2513,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2515,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2522,City,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2528,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2523,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2529,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2521,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2525,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2541,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2536,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2546,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2531,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2542,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2534,City,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2539,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2533,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2558,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2550,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2547,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2538,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2557,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2563,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2548,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2551,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2555,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2549,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2554,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2566,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2562,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2571,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2565,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2575,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2568,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2570,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2564,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2581,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2576,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2579,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2574,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2577,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2580,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2583,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2573,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2578,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2590,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2585,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2594,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2586,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2587,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2595,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2599,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2592,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2600,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2602,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2601,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2607,Airport,nan,No Cars Available,0.0,1,Tuesday,21,Night
+2612,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2605,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2606,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2611,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2614,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2610,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2615,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2616,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2618,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2620,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2623,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2626,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2619,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2617,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2622,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2630,City,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2638,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2639,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2634,City,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2640,Airport,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2649,City,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2653,City,nan,No Cars Available,0.0,1,Tuesday,22,Night
+2654,City,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2652,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2656,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2655,City,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2660,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2659,City,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2663,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2669,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2670,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2671,City,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2673,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2674,City,nan,No Cars Available,0.0,1,Tuesday,23,Night
+2678,Airport,nan,No Cars Available,0.0,1,Tuesday,23,Night
